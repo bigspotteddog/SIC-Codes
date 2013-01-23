@@ -1,0 +1,1515 @@
+Division/SIC,Description,Link
+A,Agriculture, Forestry, And Fishing,http://www.osha.gov/pls/imis/sic_manual.display?id=1&tab=division
+01,Agricultural Production Crops,http://www.osha.gov/pls/imis/sic_manual.display?id=1&tab=group
+011,Cash Grains,
+0111,Wheat,http://www.osha.gov/pls/imis/sic_manual.display?id=310&tab=description
+0112,Rice,http://www.osha.gov/pls/imis/sic_manual.display?id=311&tab=description
+0115,Corn,http://www.osha.gov/pls/imis/sic_manual.display?id=312&tab=description
+0116,Soybeans,http://www.osha.gov/pls/imis/sic_manual.display?id=313&tab=description
+0119,Cash Grains, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=314&tab=description
+013,Field Crops, Except Cash Grains,
+0131,Cotton,http://www.osha.gov/pls/imis/sic_manual.display?id=315&tab=description
+0132,Tobacco,http://www.osha.gov/pls/imis/sic_manual.display?id=316&tab=description
+0133,Sugarcane and Sugar Beets,http://www.osha.gov/pls/imis/sic_manual.display?id=317&tab=description
+0134,Irish Potatoes,http://www.osha.gov/pls/imis/sic_manual.display?id=318&tab=description
+0139,Field Crops, Except Cash Grains, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=319&tab=description
+016,Vegetables And Melons,
+0161,Vegetables and Melons,http://www.osha.gov/pls/imis/sic_manual.display?id=320&tab=description
+017,Fruits And Tree Nuts,
+0171,Berry Crops,http://www.osha.gov/pls/imis/sic_manual.display?id=321&tab=description
+0172,Grapes,http://www.osha.gov/pls/imis/sic_manual.display?id=322&tab=description
+0173,Tree Nuts,http://www.osha.gov/pls/imis/sic_manual.display?id=323&tab=description
+0174,Citrus Fruits,http://www.osha.gov/pls/imis/sic_manual.display?id=324&tab=description
+0175,Deciduous Tree Fruits,http://www.osha.gov/pls/imis/sic_manual.display?id=325&tab=description
+0179,Fruits and Tree Nuts, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=326&tab=description
+018,Horticultural Specialties,
+0181,Ornamental Floriculture and Nursery Products,http://www.osha.gov/pls/imis/sic_manual.display?id=327&tab=description
+0182,Food Crops Grown Under Cover,http://www.osha.gov/pls/imis/sic_manual.display?id=328&tab=description
+019,General Farms, Primarily Crop,
+0191,General Farms, Primarily Crop,http://www.osha.gov/pls/imis/sic_manual.display?id=329&tab=description
+02,Agriculture production livestock and animal specialties,http://www.osha.gov/pls/imis/sic_manual.display?id=2&tab=group
+021,Livestock, Except Dairy And Poultry,
+0211,Beef Cattle Feedlots,http://www.osha.gov/pls/imis/sic_manual.display?id=330&tab=description
+0212,Beef Cattle, Except Feedlots,http://www.osha.gov/pls/imis/sic_manual.display?id=331&tab=description
+0213,Hogs,http://www.osha.gov/pls/imis/sic_manual.display?id=332&tab=description
+0214,Sheep and Goats,http://www.osha.gov/pls/imis/sic_manual.display?id=333&tab=description
+0219,General Livestock, Except Dairy and Poultry,http://www.osha.gov/pls/imis/sic_manual.display?id=334&tab=description
+024,Dairy Farms,
+0241,Dairy Farms,http://www.osha.gov/pls/imis/sic_manual.display?id=335&tab=description
+025,Poultry And Eggs,
+0251,Broiler, Fryer, and Roaster Chickens,http://www.osha.gov/pls/imis/sic_manual.display?id=336&tab=description
+0252,Chicken Eggs,http://www.osha.gov/pls/imis/sic_manual.display?id=337&tab=description
+0253,Turkeys and Turkey Eggs,http://www.osha.gov/pls/imis/sic_manual.display?id=338&tab=description
+0254,Poultry Hatcheries,http://www.osha.gov/pls/imis/sic_manual.display?id=339&tab=description
+0259,Poultry and Eggs, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1001&tab=description
+027,Animal Specialties,
+0271,Fur-Bearing Animals and Rabbits,http://www.osha.gov/pls/imis/sic_manual.display?id=347&tab=description
+0272,Horses and Other Equines,http://www.osha.gov/pls/imis/sic_manual.display?id=348&tab=description
+0273,Animal Aquaculture,http://www.osha.gov/pls/imis/sic_manual.display?id=349&tab=description
+0279,Animal Specialties, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=350&tab=description
+029,General Farms, Primarily Livestock And Animal,
+0291,General Farms, Primarily Livestock and Animal Specialties,http://www.osha.gov/pls/imis/sic_manual.display?id=351&tab=description
+07,Agricultural Services,http://www.osha.gov/pls/imis/sic_manual.display?id=3&tab=group
+071,Soil Preparation Services,
+0711,Soil Preparation Services,http://www.osha.gov/pls/imis/sic_manual.display?id=352&tab=description
+072,Crop Services,
+0721,Crop Planting, Cultivating, and Protecting,http://www.osha.gov/pls/imis/sic_manual.display?id=353&tab=description
+0722,Crop Harvesting, Primarily by Machine,http://www.osha.gov/pls/imis/sic_manual.display?id=354&tab=description
+0723,Crop Preparation Services for Market, Except Cotton Ginning,http://www.osha.gov/pls/imis/sic_manual.display?id=355&tab=description
+0724,Cotton Ginning,http://www.osha.gov/pls/imis/sic_manual.display?id=356&tab=description
+074,Veterinary Services,
+0741,Veterinary Services for Livestock,http://www.osha.gov/pls/imis/sic_manual.display?id=357&tab=description
+0742,Veterinary Services for Animal Specialties,http://www.osha.gov/pls/imis/sic_manual.display?id=358&tab=description
+075,Animal Services, Except Veterinary,
+0751,Livestock Services, Except Veterinary,http://www.osha.gov/pls/imis/sic_manual.display?id=359&tab=description
+0752,Animal Specialty Services, Except Veterinary,http://www.osha.gov/pls/imis/sic_manual.display?id=360&tab=description
+076,Farm Labor And Management Services,
+0761,Farm Labor Contractors and Crew Leaders,http://www.osha.gov/pls/imis/sic_manual.display?id=361&tab=description
+0762,Farm Management Services,http://www.osha.gov/pls/imis/sic_manual.display?id=362&tab=description
+078,Landscape And Horticultural Services,
+0781,Landscape Counseling and Planning,http://www.osha.gov/pls/imis/sic_manual.display?id=363&tab=description
+0782,Lawn and Garden Services,http://www.osha.gov/pls/imis/sic_manual.display?id=364&tab=description
+0783,Ornamental Shrub and Tree Services,http://www.osha.gov/pls/imis/sic_manual.display?id=365&tab=description
+08,Forestry,http://www.osha.gov/pls/imis/sic_manual.display?id=4&tab=group
+081,Timber Tracts,
+0811,Timber Tracts,http://www.osha.gov/pls/imis/sic_manual.display?id=366&tab=description
+083,Forest Nurseries And Gathering Of Forest,
+0831,Forest Nurseries and Gathering of Forest Products,http://www.osha.gov/pls/imis/sic_manual.display?id=367&tab=description
+085,Forestry Services,
+0851,Forestry Services,http://www.osha.gov/pls/imis/sic_manual.display?id=368&tab=description
+09,Fishing, hunting, and trapping,http://www.osha.gov/pls/imis/sic_manual.display?id=5&tab=group
+091,Commercial Fishing,
+0912,Finfish,http://www.osha.gov/pls/imis/sic_manual.display?id=369&tab=description
+0913,Shellfish,http://www.osha.gov/pls/imis/sic_manual.display?id=370&tab=description
+0919,Miscellaneous Marine Products,http://www.osha.gov/pls/imis/sic_manual.display?id=371&tab=description
+092,Fish Hatcheries And Preserves,
+0921,Fish Hatcheries and Preserves,http://www.osha.gov/pls/imis/sic_manual.display?id=372&tab=description
+097,Hunting And Trapping, And Game Propagation,
+0971,Hunting and Trapping, and Game Propagation,http://www.osha.gov/pls/imis/sic_manual.display?id=373&tab=description
+B,Mining,http://www.osha.gov/pls/imis/sic_manual.display?id=2&tab=division
+10,Metal Mining,http://www.osha.gov/pls/imis/sic_manual.display?id=6&tab=group
+101,Iron Ores,
+1011,Iron Ores,http://www.osha.gov/pls/imis/sic_manual.display?id=374&tab=description
+102,Copper Ores,
+1021,Copper Ores,http://www.osha.gov/pls/imis/sic_manual.display?id=375&tab=description
+103,Lead And Zinc Ores,
+1031,Lead and Zinc Ores,http://www.osha.gov/pls/imis/sic_manual.display?id=376&tab=description
+104,Gold And Silver Ores,
+1041,Gold Ores,http://www.osha.gov/pls/imis/sic_manual.display?id=377&tab=description
+1044,Silver Ores,http://www.osha.gov/pls/imis/sic_manual.display?id=378&tab=description
+106,Ferroalloy Ores, Except Vanadium,
+1061,Ferroalloy Ores, Except Vanadium,http://www.osha.gov/pls/imis/sic_manual.display?id=379&tab=description
+108,Metal Mining Services,
+1081,Metal Mining Services,http://www.osha.gov/pls/imis/sic_manual.display?id=380&tab=description
+109,Miscellaneous Metal Ores,
+1094,Uranium-Radium-Vanadium Ores,http://www.osha.gov/pls/imis/sic_manual.display?id=381&tab=description
+1099,Miscellaneous Metal Ores, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=382&tab=description
+12,Coal Mining,http://www.osha.gov/pls/imis/sic_manual.display?id=7&tab=group
+122,Bituminous Coal And Lignite Mining,
+1221,Bituminous Coal and Lignite Surface Mining,http://www.osha.gov/pls/imis/sic_manual.display?id=383&tab=description
+1222,Bituminous Coal Underground Mining,http://www.osha.gov/pls/imis/sic_manual.display?id=384&tab=description
+123,Anthracite Mining,
+1231,Anthracite Mining,http://www.osha.gov/pls/imis/sic_manual.display?id=385&tab=description
+124,Coal Mining Services,
+1241,Coal Mining Services,http://www.osha.gov/pls/imis/sic_manual.display?id=386&tab=description
+13,Oil And Gas Extraction,http://www.osha.gov/pls/imis/sic_manual.display?id=8&tab=group
+131,Crude Petroleum And Natural Gas,
+1311,Crude Petroleum and Natural Gas,http://www.osha.gov/pls/imis/sic_manual.display?id=387&tab=description
+132,Natural Gas Liquids,
+1321,Natural Gas Liquids,http://www.osha.gov/pls/imis/sic_manual.display?id=388&tab=description
+138,Oil And Gas Field Services,
+1381,Drilling Oil and Gas Wells,http://www.osha.gov/pls/imis/sic_manual.display?id=389&tab=description
+1382,Oil and Gas Field Exploration Services,http://www.osha.gov/pls/imis/sic_manual.display?id=390&tab=description
+1389,Oil and Gas Field Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=391&tab=description
+14,Mining And Quarrying Of Nonmetallic Minerals, Except Fuels,http://www.osha.gov/pls/imis/sic_manual.display?id=9&tab=group
+141,Dimension Stone,
+1411,Dimension Stone,http://www.osha.gov/pls/imis/sic_manual.display?id=392&tab=description
+142,Crushed And Broken Stone, Including Riprap,
+1422,Crushed and Broken Limestone,http://www.osha.gov/pls/imis/sic_manual.display?id=393&tab=description
+1423,Crushed and Broken Granite,http://www.osha.gov/pls/imis/sic_manual.display?id=394&tab=description
+1429,Crushed and Broken Stone, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=395&tab=description
+144,Sand And Gravel,
+1442,Construction Sand and Gravel,http://www.osha.gov/pls/imis/sic_manual.display?id=396&tab=description
+1446,Industrial Sand,http://www.osha.gov/pls/imis/sic_manual.display?id=397&tab=description
+145,Clay, Ceramic, And Refractory Minerals,
+1455,Kaolin and Ball Clay,http://www.osha.gov/pls/imis/sic_manual.display?id=398&tab=description
+1459,Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=399&tab=description
+147,Chemical And Fertilizer Mineral Mining,
+1474,Potash, Soda, and Borate Minerals,http://www.osha.gov/pls/imis/sic_manual.display?id=400&tab=description
+1475,Phosphate Rock,http://www.osha.gov/pls/imis/sic_manual.display?id=401&tab=description
+1479,Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=402&tab=description
+148,Nonmetallic Minerals Services, Except Fuels,
+1481,Nonmetallic Minerals Services, Except Fuels,http://www.osha.gov/pls/imis/sic_manual.display?id=403&tab=description
+149,Miscellaneous Nonmetallic Minerals, Except,
+1499,Miscellaneous Nonmetallic Minerals, Except Fuels,http://www.osha.gov/pls/imis/sic_manual.display?id=404&tab=description
+C,Construction,http://www.osha.gov/pls/imis/sic_manual.display?id=3&tab=division
+15,Building Construction General Contractors And Operative Builders,http://www.osha.gov/pls/imis/sic_manual.display?id=10&tab=group
+152,General Building Contractors-residential,
+1521,General Contractors-Single-Family Houses,http://www.osha.gov/pls/imis/sic_manual.display?id=405&tab=description
+1522,General Contractors-Residential Buildings, Other Than Single-Family,http://www.osha.gov/pls/imis/sic_manual.display?id=406&tab=description
+153,Operative Builders,
+1531,Operative Builders,http://www.osha.gov/pls/imis/sic_manual.display?id=407&tab=description
+154,General Building Contractors-nonresidential,
+1541,General Contractors-Industrial Buildings and Warehouses,http://www.osha.gov/pls/imis/sic_manual.display?id=408&tab=description
+1542,General Contractors-Nonresidential Buildings, Other than Industrial Buildings and Warehouses,http://www.osha.gov/pls/imis/sic_manual.display?id=409&tab=description
+16,Heavy Construction Other Than Building Construction Contractors,http://www.osha.gov/pls/imis/sic_manual.display?id=11&tab=group
+161,Highway And Street Construction, Except,
+1611,Highway and Street Construction, Except Elevated Highways,http://www.osha.gov/pls/imis/sic_manual.display?id=410&tab=description
+162,Heavy Construction, Except Highway And Street,
+1622,Bridge, Tunnel, and Elevated Highway Construction,http://www.osha.gov/pls/imis/sic_manual.display?id=411&tab=description
+1623,Water, Sewer, Pipeline, and Communications and Power Line Construction,http://www.osha.gov/pls/imis/sic_manual.display?id=412&tab=description
+1629,Heavy Construction, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=413&tab=description
+17,Construction Special Trade Contractors,http://www.osha.gov/pls/imis/sic_manual.display?id=12&tab=group
+171,Plumbing, Heating And Air-conditioning,
+1711,Plumbing, Heating and Air-Conditioning,http://www.osha.gov/pls/imis/sic_manual.display?id=414&tab=description
+172,Painting And Paper Hanging,
+1721,Painting and Paper Hanging,http://www.osha.gov/pls/imis/sic_manual.display?id=415&tab=description
+173,Electrical Work,
+1731,Electrical Work,http://www.osha.gov/pls/imis/sic_manual.display?id=416&tab=description
+174,Masonry, Stonework, Tile Setting, And Plastering,
+1741,Masonry, Stone Setting, and Other Stone Work,http://www.osha.gov/pls/imis/sic_manual.display?id=417&tab=description
+1742,Plastering, Drywall, Acoustical, and Insulation Work,http://www.osha.gov/pls/imis/sic_manual.display?id=418&tab=description
+1743,Terrazzo, Tile, Marble, and Mosaic Work,http://www.osha.gov/pls/imis/sic_manual.display?id=419&tab=description
+175,Carpentry And Floor Work,
+1751,Carpentry Work,http://www.osha.gov/pls/imis/sic_manual.display?id=420&tab=description
+1752,Floor Laying and Other Floor Work, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=421&tab=description
+176,Roofing, Siding, And Sheet Metal Work,
+1761,Roofing, Siding, and Sheet Metal Work,http://www.osha.gov/pls/imis/sic_manual.display?id=422&tab=description
+177,Concrete Work,
+1771,Concrete Work,http://www.osha.gov/pls/imis/sic_manual.display?id=423&tab=description
+178,Water Well Drilling,
+1781,Water Well Drilling,http://www.osha.gov/pls/imis/sic_manual.display?id=424&tab=description
+179,Miscellaneous Special Trade Contractors,
+1791,Structural Steel Erection,http://www.osha.gov/pls/imis/sic_manual.display?id=425&tab=description
+1793,Glass and Glazing Work,http://www.osha.gov/pls/imis/sic_manual.display?id=426&tab=description
+1794,Excavation Work,http://www.osha.gov/pls/imis/sic_manual.display?id=427&tab=description
+1795,Wrecking and Demolition Work,http://www.osha.gov/pls/imis/sic_manual.display?id=428&tab=description
+1796,Installation or Erection of Building Equipment, Not Elsewhere,http://www.osha.gov/pls/imis/sic_manual.display?id=429&tab=description
+1799,Special Trade Contractors, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=430&tab=description
+D,Manufacturing,http://www.osha.gov/pls/imis/sic_manual.display?id=4&tab=division
+20,Food And Kindred Products,http://www.osha.gov/pls/imis/sic_manual.display?id=13&tab=group
+201,Meat Products,
+2011,Meat Packing Plants,http://www.osha.gov/pls/imis/sic_manual.display?id=431&tab=description
+2013,Sausages and Other Prepared Meat Products,http://www.osha.gov/pls/imis/sic_manual.display?id=432&tab=description
+2015,Poultry Slaughtering and Processing,http://www.osha.gov/pls/imis/sic_manual.display?id=433&tab=description
+202,Dairy Products,
+2021,Creamery Butter,http://www.osha.gov/pls/imis/sic_manual.display?id=434&tab=description
+2022,Natural, Processed, and Imitation Cheese,http://www.osha.gov/pls/imis/sic_manual.display?id=435&tab=description
+2023,Dry, Condensed, and Evaporated Dairy Products,http://www.osha.gov/pls/imis/sic_manual.display?id=436&tab=description
+2024,Ice Cream and Frozen Desserts,http://www.osha.gov/pls/imis/sic_manual.display?id=437&tab=description
+2026,Fluid Milk,http://www.osha.gov/pls/imis/sic_manual.display?id=438&tab=description
+203,Canned, Frozen, And Preserved Fruits, Vegetables, and Food Specialties,
+2032,Canned Specialties,http://www.osha.gov/pls/imis/sic_manual.display?id=439&tab=description
+2033,Canned Fruits, Vegetables, Preserves, Jams, and Jellies,http://www.osha.gov/pls/imis/sic_manual.display?id=440&tab=description
+2034,Dried and Dehydrated Fruits, Vegetables, and Soup Mixes,http://www.osha.gov/pls/imis/sic_manual.display?id=441&tab=description
+2035,Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings,http://www.osha.gov/pls/imis/sic_manual.display?id=442&tab=description
+2037,Frozen Fruits, Fruit Juices, and Vegetables,http://www.osha.gov/pls/imis/sic_manual.display?id=443&tab=description
+2038,Frozen Specialties, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=444&tab=description
+204,Grain Mill Products,
+2041,Flour and Other Grain Mill Products,http://www.osha.gov/pls/imis/sic_manual.display?id=445&tab=description
+2043,Cereal Breakfast Foods,http://www.osha.gov/pls/imis/sic_manual.display?id=446&tab=description
+2044,Rice Milling,http://www.osha.gov/pls/imis/sic_manual.display?id=447&tab=description
+2045,Prepared Flour Mixes and Doughs,http://www.osha.gov/pls/imis/sic_manual.display?id=448&tab=description
+2046,Wet Corn Milling,http://www.osha.gov/pls/imis/sic_manual.display?id=449&tab=description
+2047,Dog and Cat Food,http://www.osha.gov/pls/imis/sic_manual.display?id=450&tab=description
+2048,Prepared Feed and Feed Ingredients for Animals and Fowls, Except Dogs and Cats,http://www.osha.gov/pls/imis/sic_manual.display?id=451&tab=description
+205,Bakery Products,
+2051,Bread and Other Bakery Products, Except Cookies and Crackers,http://www.osha.gov/pls/imis/sic_manual.display?id=452&tab=description
+2052,Cookies and Crackers,http://www.osha.gov/pls/imis/sic_manual.display?id=453&tab=description
+2053,Frozen Bakery Products, Except Bread,http://www.osha.gov/pls/imis/sic_manual.display?id=454&tab=description
+206,Sugar And Confectionery Products,
+2061,Cane Sugar, Except Refining,http://www.osha.gov/pls/imis/sic_manual.display?id=455&tab=description
+2062,Cane Sugar Refining,http://www.osha.gov/pls/imis/sic_manual.display?id=456&tab=description
+2063,Beet Sugar,http://www.osha.gov/pls/imis/sic_manual.display?id=457&tab=description
+2064,Candy and Other Confectionery Products,http://www.osha.gov/pls/imis/sic_manual.display?id=458&tab=description
+2066,Chocolate and Cocoa Products,http://www.osha.gov/pls/imis/sic_manual.display?id=459&tab=description
+2067,Chewing Gum,http://www.osha.gov/pls/imis/sic_manual.display?id=460&tab=description
+2068,Salted and Roasted Nuts and Seeds,http://www.osha.gov/pls/imis/sic_manual.display?id=461&tab=description
+207,Fats And Oils,
+2074,Cottonseed Oil Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=462&tab=description
+2075,Soybean Oil Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=463&tab=description
+2076,Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean,http://www.osha.gov/pls/imis/sic_manual.display?id=464&tab=description
+2077,Animal and Marine Fats and Oils,http://www.osha.gov/pls/imis/sic_manual.display?id=465&tab=description
+2079,Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=466&tab=description
+208,Beverages,
+2082,Malt Beverages,http://www.osha.gov/pls/imis/sic_manual.display?id=467&tab=description
+2083,Malt,http://www.osha.gov/pls/imis/sic_manual.display?id=468&tab=description
+2084,Wines, Brandy, and Brandy Spirits,http://www.osha.gov/pls/imis/sic_manual.display?id=469&tab=description
+2085,Distilled and Blended Liquors,http://www.osha.gov/pls/imis/sic_manual.display?id=470&tab=description
+2086,Bottled and Canned Soft Drinks and Carbonated Waters,http://www.osha.gov/pls/imis/sic_manual.display?id=471&tab=description
+2087,Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=472&tab=description
+209,Miscellaneous Food Preparations And Kindred,
+2091,Canned and Cured Fish and Seafoods,http://www.osha.gov/pls/imis/sic_manual.display?id=473&tab=description
+2092,Prepared Fresh or Frozen Fish and Seafoods,http://www.osha.gov/pls/imis/sic_manual.display?id=474&tab=description
+2095,Roasted Coffee,http://www.osha.gov/pls/imis/sic_manual.display?id=475&tab=description
+2096,Potato Chips, Corn Chips, and Similar Snacks,http://www.osha.gov/pls/imis/sic_manual.display?id=476&tab=description
+2097,Manufactured Ice,http://www.osha.gov/pls/imis/sic_manual.display?id=477&tab=description
+2098,Macaroni, Spaghetti, Vermicelli, and Noodles,http://www.osha.gov/pls/imis/sic_manual.display?id=478&tab=description
+2099,Food Preparations, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=479&tab=description
+21,Tobacco Products,http://www.osha.gov/pls/imis/sic_manual.display?id=14&tab=group
+211,Cigarettes,
+2111,Cigarettes,http://www.osha.gov/pls/imis/sic_manual.display?id=480&tab=description
+212,Cigars,
+2121,Cigars,http://www.osha.gov/pls/imis/sic_manual.display?id=481&tab=description
+213,Chewing And Smoking Tobacco And Snuff,
+2131,Chewing and Smoking Tobacco and Snuff,http://www.osha.gov/pls/imis/sic_manual.display?id=482&tab=description
+214,Tobacco Stemming And Redrying,
+2141,Tobacco Stemming and Redrying,http://www.osha.gov/pls/imis/sic_manual.display?id=483&tab=description
+22,Textile Mill Products,http://www.osha.gov/pls/imis/sic_manual.display?id=15&tab=group
+221,Broadwoven Fabric Mills, Cotton,
+2211,Broadwoven Fabric Mills, Cotton,http://www.osha.gov/pls/imis/sic_manual.display?id=1002&tab=description
+222,Broadwoven Fabric Mills, Manmade Fiber And Silk,
+2221,Broadwoven Fabric Mills, Manmade Fiber and Silk,http://www.osha.gov/pls/imis/sic_manual.display?id=485&tab=description
+223,Broadwoven Fabric Mills, Wool (including Dyeing and Finishing),
+2231,Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing),http://www.osha.gov/pls/imis/sic_manual.display?id=486&tab=description
+224,Narrow Fabric And Other Smallwares Mills, Cotton, Wool, Silk, and Manmade Fiber,
+2241,Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk, and Manmade Fiber,http://www.osha.gov/pls/imis/sic_manual.display?id=487&tab=description
+225,Knitting Mills,
+2251,Women's Full-Length and Knee-Length Hosiery, Except Socks,http://www.osha.gov/pls/imis/sic_manual.display?id=488&tab=description
+2252,Hosiery, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=489&tab=description
+2253,Knit Outerwear Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=490&tab=description
+2254,Knit Underwear and Nightwear Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=491&tab=description
+2257,Weft Knit Fabric Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=492&tab=description
+2258,Lace and Warp Knit Fabric Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=493&tab=description
+2259,Knitting Mills, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=494&tab=description
+226,Dyeing And Finishing Textiles, Except Wool Fabrics,
+2261,Finishers of Broadwoven Fabrics of Cotton,http://www.osha.gov/pls/imis/sic_manual.display?id=495&tab=description
+2262,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk,http://www.osha.gov/pls/imis/sic_manual.display?id=496&tab=description
+2269,Finishers of Textiles, Not elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=497&tab=description
+227,Carpets And Rugs,
+2273,Carpets and Rugs,http://www.osha.gov/pls/imis/sic_manual.display?id=498&tab=description
+228,Yarn And Thread Mills,
+2281,Yarn Spinning Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=499&tab=description
+2282,Yarn Texturizing, Throwing, Twisting, and Winding Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=500&tab=description
+2284,Thread Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=501&tab=description
+229,Miscellaneous Textile Goods,
+2295,Coated Fabrics, Not Rubberized,http://www.osha.gov/pls/imis/sic_manual.display?id=502&tab=description
+2296,Tire Cord and Fabrics,http://www.osha.gov/pls/imis/sic_manual.display?id=503&tab=description
+2297,Non-woven Fabrics,http://www.osha.gov/pls/imis/sic_manual.display?id=504&tab=description
+2298,Cordage and Twine,http://www.osha.gov/pls/imis/sic_manual.display?id=505&tab=description
+2299,Textile goods, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=506&tab=description
+23,Apparel And Other Finished Products Made From Fabrics And Similar Materials,http://www.osha.gov/pls/imis/sic_manual.display?id=16&tab=group
+231,Men&#39;s And Boys&#39; Suits, Coats, And Overcoats,
+2311,Men's and Boys' Suits, Coats, and Overcoats,http://www.osha.gov/pls/imis/sic_manual.display?id=507&tab=description
+232,Men&#39;s And Boys&#39; Furnishings, Work Clothing, And Allied Garments,
+2321,Men's and Boys' Shirts, Except Work Shirts,http://www.osha.gov/pls/imis/sic_manual.display?id=508&tab=description
+2322,Men's and Boys' Underwear and Nightwear,http://www.osha.gov/pls/imis/sic_manual.display?id=509&tab=description
+2323,Men's and Boys' Neckwear,http://www.osha.gov/pls/imis/sic_manual.display?id=510&tab=description
+2325,Men's and Boys' Separate Trousers and Slacks,http://www.osha.gov/pls/imis/sic_manual.display?id=511&tab=description
+2326,Men's and Boys' Work Clothing,http://www.osha.gov/pls/imis/sic_manual.display?id=512&tab=description
+2329,Men's and Boys' Clothing, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=513&tab=description
+233,Women&#39;s, Misses&#39;, And Juniors&#39; Outerwear,
+2331,Women's, Misses', and Juniors' Blouses and Shirts,http://www.osha.gov/pls/imis/sic_manual.display?id=514&tab=description
+2335,Women's, Misses', and Juniors' Dresses,http://www.osha.gov/pls/imis/sic_manual.display?id=515&tab=description
+2337,Women's, Misses', and Juniors' Suits, Skirts, and Coats,http://www.osha.gov/pls/imis/sic_manual.display?id=516&tab=description
+2339,Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=517&tab=description
+234,Women&#39;s, Misses&#39;, Children&#39;s, And Infants&#39;,
+2341,Women's, Misses', Children's, and Infants' Underwear and Nightwear,http://www.osha.gov/pls/imis/sic_manual.display?id=518&tab=description
+2342,Brassieres, Girdles, and Allied Garments,http://www.osha.gov/pls/imis/sic_manual.display?id=519&tab=description
+235,Hats, Caps, And Millinery,
+2353,Hats, Caps, and Millinery,http://www.osha.gov/pls/imis/sic_manual.display?id=520&tab=description
+236,Girls&#39;, Children&#39;s, And Infants&#39; Outerwear,
+2361,Girls', Children's, and Infants' Dresses, Blouses, and Shirts,http://www.osha.gov/pls/imis/sic_manual.display?id=521&tab=description
+2369,Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=522&tab=description
+237,Fur Goods,
+2371,Fur Goods,http://www.osha.gov/pls/imis/sic_manual.display?id=523&tab=description
+238,Miscellaneous Apparel And Accessories,
+2381,Dress and Work Gloves, Except Knit and All-Leather,http://www.osha.gov/pls/imis/sic_manual.display?id=524&tab=description
+2384,Robes and Dressing Gowns,http://www.osha.gov/pls/imis/sic_manual.display?id=525&tab=description
+2385,Waterproof Outerwear,http://www.osha.gov/pls/imis/sic_manual.display?id=526&tab=description
+2386,Leather and Sheep-Lined Clothing,http://www.osha.gov/pls/imis/sic_manual.display?id=527&tab=description
+2387,Apparel belts,http://www.osha.gov/pls/imis/sic_manual.display?id=528&tab=description
+2389,Apparel and Accessories, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=529&tab=description
+239,Miscellaneous Fabricated Textile Products,
+2391,Curtains and Draperies,http://www.osha.gov/pls/imis/sic_manual.display?id=530&tab=description
+2392,House furnishing, Except Curtains and Draperies,http://www.osha.gov/pls/imis/sic_manual.display?id=531&tab=description
+2393,Textile Bags,http://www.osha.gov/pls/imis/sic_manual.display?id=532&tab=description
+2394,Canvas and Related Products,http://www.osha.gov/pls/imis/sic_manual.display?id=533&tab=description
+2395,Pleating, Decorative and Novelty Stitching, and Tucking for the Trade,http://www.osha.gov/pls/imis/sic_manual.display?id=534&tab=description
+2396,Automotive Trimmings, Apparel Findings, and Related Products,http://www.osha.gov/pls/imis/sic_manual.display?id=535&tab=description
+2397,Schiffli Machine Embroideries,http://www.osha.gov/pls/imis/sic_manual.display?id=536&tab=description
+2399,Fabricated Textile Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=537&tab=description
+24,Lumber And Wood Products, Except Furniture,http://www.osha.gov/pls/imis/sic_manual.display?id=17&tab=group
+241,Logging,
+2411,Logging,http://www.osha.gov/pls/imis/sic_manual.display?id=538&tab=description
+242,Sawmills And Planing Mills,
+2421,Sawmills and Planing Mills, General,http://www.osha.gov/pls/imis/sic_manual.display?id=539&tab=description
+2426,Hardwood Dimension and Flooring Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=540&tab=description
+2429,Special Product Sawmills, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=541&tab=description
+243,Millwork, Veneer, Plywood, And Structural Wood,
+2431,Millwork,http://www.osha.gov/pls/imis/sic_manual.display?id=542&tab=description
+2434,Wood Kitchen Cabinets,http://www.osha.gov/pls/imis/sic_manual.display?id=543&tab=description
+2435,Hardwood Veneer and Plywood,http://www.osha.gov/pls/imis/sic_manual.display?id=544&tab=description
+2436,Softwood Veneer and Plywood,http://www.osha.gov/pls/imis/sic_manual.display?id=545&tab=description
+2439,Structural Wood Members, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=546&tab=description
+244,Wood Containers,
+2441,Nailed and Lock Corner Wood Boxes and Shook,http://www.osha.gov/pls/imis/sic_manual.display?id=547&tab=description
+2448,Wood Pallets and Skids,http://www.osha.gov/pls/imis/sic_manual.display?id=548&tab=description
+2449,Wood Containers, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=549&tab=description
+245,Wood Buildings And Mobile Homes,
+2451,Mobile Homes,http://www.osha.gov/pls/imis/sic_manual.display?id=550&tab=description
+2452,Prefabricated Wood Buildings and Components,http://www.osha.gov/pls/imis/sic_manual.display?id=551&tab=description
+249,Miscellaneous Wood Products,
+2491,Wood Preserving,http://www.osha.gov/pls/imis/sic_manual.display?id=552&tab=description
+2493,Reconstituted Wood Products,http://www.osha.gov/pls/imis/sic_manual.display?id=553&tab=description
+2499,Wood Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=554&tab=description
+25,Furniture And Fixtures,http://www.osha.gov/pls/imis/sic_manual.display?id=18&tab=group
+251,Household Furniture,
+2511,Wood Household Furniture, Except Upholstered,http://www.osha.gov/pls/imis/sic_manual.display?id=555&tab=description
+2512,Wood Household Furniture, Upholstered,http://www.osha.gov/pls/imis/sic_manual.display?id=556&tab=description
+2514,Metal Household Furniture,http://www.osha.gov/pls/imis/sic_manual.display?id=557&tab=description
+2515,Mattresses, Foundations, and Convertible Beds,http://www.osha.gov/pls/imis/sic_manual.display?id=558&tab=description
+2517,Wood Television, Radio, Phonograph, and Sewing Machine Cabinets,http://www.osha.gov/pls/imis/sic_manual.display?id=559&tab=description
+2519,Household Furniture, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=560&tab=description
+252,Office Furniture,
+2521,Wood Office Furniture,http://www.osha.gov/pls/imis/sic_manual.display?id=561&tab=description
+2522,Office Furniture, Except Wood,http://www.osha.gov/pls/imis/sic_manual.display?id=562&tab=description
+253,Public Building And Related Furniture,
+2531,Public Building and Related Furniture,http://www.osha.gov/pls/imis/sic_manual.display?id=563&tab=description
+254,Partitions, Shelving, Lockers, And Office And,
+2541,Wood Office and Store Fixtures, Partitions, Shelving, and Lockers,http://www.osha.gov/pls/imis/sic_manual.display?id=564&tab=description
+2542,Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood,http://www.osha.gov/pls/imis/sic_manual.display?id=565&tab=description
+259,Miscellaneous Furniture And Fixtures,
+2591,Drapery Hardware and Window Blinds and Shades,http://www.osha.gov/pls/imis/sic_manual.display?id=566&tab=description
+2599,Furniture and Fixtures, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=567&tab=description
+26,Paper And Allied Products,http://www.osha.gov/pls/imis/sic_manual.display?id=19&tab=group
+261,Pulp Mills,
+2611,Pulp Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=568&tab=description
+262,Paper Mills,
+2621,Paper Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=569&tab=description
+263,Paperboard Mills,
+2631,Paperboard Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=570&tab=description
+265,Paperboard Containers And Boxes,
+2652,Setup Paperboard Boxes,http://www.osha.gov/pls/imis/sic_manual.display?id=571&tab=description
+2653,Corrugated and Solid Fiber Boxes,http://www.osha.gov/pls/imis/sic_manual.display?id=572&tab=description
+2655,Fiber Cans, Tubes, Drums, and Similar Products,http://www.osha.gov/pls/imis/sic_manual.display?id=573&tab=description
+2656,Sanitary Food Containers, Except Folding,http://www.osha.gov/pls/imis/sic_manual.display?id=574&tab=description
+2657,Folding Paperboard Boxes, Including Sanitary,http://www.osha.gov/pls/imis/sic_manual.display?id=575&tab=description
+267,Converted Paper And Paperboard Products, Except,
+2671,Packaging Paper and Plastics Film, Coated and Laminated,http://www.osha.gov/pls/imis/sic_manual.display?id=576&tab=description
+2672,Coated and Laminated Paper, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=577&tab=description
+2673,Plastics, Foil, and Coated Paper Bags,http://www.osha.gov/pls/imis/sic_manual.display?id=578&tab=description
+2674,Uncoated Paper and Multiwall Bags,http://www.osha.gov/pls/imis/sic_manual.display?id=579&tab=description
+2675,Die-Cut Paper and Paperboard and Cardboard,http://www.osha.gov/pls/imis/sic_manual.display?id=580&tab=description
+2676,Sanitary Paper Products,http://www.osha.gov/pls/imis/sic_manual.display?id=581&tab=description
+2677,Envelopes,http://www.osha.gov/pls/imis/sic_manual.display?id=582&tab=description
+2678,Stationery, Tablets, and Related Products,http://www.osha.gov/pls/imis/sic_manual.display?id=583&tab=description
+2679,Converted Paper and Paperboard Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=584&tab=description
+27,Printing, Publishing, And Allied Industries,http://www.osha.gov/pls/imis/sic_manual.display?id=20&tab=group
+271,Newspapers,
+2711,Newspapers: Publishing, or Publishing and Printing,http://www.osha.gov/pls/imis/sic_manual.display?id=585&tab=description
+272,Periodicals,
+2721,Periodicals: Publishing, or Publishing and Printing,http://www.osha.gov/pls/imis/sic_manual.display?id=586&tab=description
+273,Books,
+2731,Books: Publishing, or Publishing and Printing,http://www.osha.gov/pls/imis/sic_manual.display?id=587&tab=description
+2732,Book Printing,http://www.osha.gov/pls/imis/sic_manual.display?id=588&tab=description
+274,Miscellaneous Publishing,
+2741,Miscellaneous Publishing,http://www.osha.gov/pls/imis/sic_manual.display?id=589&tab=description
+275,Commercial Printing,
+2752,Commercial Printing, Lithographic,http://www.osha.gov/pls/imis/sic_manual.display?id=590&tab=description
+2754,Commercial Printing, Gravure,http://www.osha.gov/pls/imis/sic_manual.display?id=591&tab=description
+2759,Commercial Printing, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=592&tab=description
+276,Manifold Business Forms,
+2761,Manifold Business Forms,http://www.osha.gov/pls/imis/sic_manual.display?id=593&tab=description
+277,Greeting Cards,
+2771,Greeting Cards,http://www.osha.gov/pls/imis/sic_manual.display?id=594&tab=description
+278,Blankbooks, Looseleaf Binders, And Bookbinding,
+2782,Blankbooks, Looseleaf Binders and Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=595&tab=description
+2789,Bookbinding and Related Work,http://www.osha.gov/pls/imis/sic_manual.display?id=596&tab=description
+279,Service Industries For The Printing Trade,
+2791,Typesetting,http://www.osha.gov/pls/imis/sic_manual.display?id=597&tab=description
+2796,Platemaking and Related Services,http://www.osha.gov/pls/imis/sic_manual.display?id=598&tab=description
+28,Chemicals And Allied Products,http://www.osha.gov/pls/imis/sic_manual.display?id=21&tab=group
+281,Industrial Inorganic Chemicals,
+2812,Alkalies and Chlorine,http://www.osha.gov/pls/imis/sic_manual.display?id=599&tab=description
+2813,Industrial Gases,http://www.osha.gov/pls/imis/sic_manual.display?id=600&tab=description
+2816,Inorganic Pigments,http://www.osha.gov/pls/imis/sic_manual.display?id=601&tab=description
+2819,Industrial Inorganic Chemicals, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1003&tab=description
+282,Plastics Materials And Synthetic Resins, Synthetic,
+2821,Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers,http://www.osha.gov/pls/imis/sic_manual.display?id=603&tab=description
+2822,Synthetic Rubber (Vulcanizable Elastomers),http://www.osha.gov/pls/imis/sic_manual.display?id=604&tab=description
+2823,Cellulosic Manmade Fibers,http://www.osha.gov/pls/imis/sic_manual.display?id=605&tab=description
+2824,Manmade Organic Fibers, Except Cellulosic,http://www.osha.gov/pls/imis/sic_manual.display?id=606&tab=description
+283,Drugs,
+2833,Medicinal Chemicals and Botanical Products,http://www.osha.gov/pls/imis/sic_manual.display?id=607&tab=description
+2834,Pharmaceutical Preparations,http://www.osha.gov/pls/imis/sic_manual.display?id=608&tab=description
+2835,In Vitro and In Vivo Diagnostic Substances,http://www.osha.gov/pls/imis/sic_manual.display?id=609&tab=description
+2836,Biological Products, Except Diagnostic Substances,http://www.osha.gov/pls/imis/sic_manual.display?id=610&tab=description
+284,Soap, Detergents, And Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations,
+2841,Soap and Other Detergents, Except Specialty Cleaners,http://www.osha.gov/pls/imis/sic_manual.display?id=611&tab=description
+2842,Specialty Cleaning, Polishing, and Sanitation Preparations,http://www.osha.gov/pls/imis/sic_manual.display?id=612&tab=description
+2843,Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants,http://www.osha.gov/pls/imis/sic_manual.display?id=613&tab=description
+2844,Perfumes, Cosmetics, and Other Toilet Preparations,http://www.osha.gov/pls/imis/sic_manual.display?id=614&tab=description
+285,Paints, Varnishes, Lacquers, Enamels, And Allied,
+2851,Paints, Varnishes, Lacquers, Enamels, and Allied Products,http://www.osha.gov/pls/imis/sic_manual.display?id=615&tab=description
+286,Industrial Organic Chemicals,
+2861,Gum and Wood Chemicals,http://www.osha.gov/pls/imis/sic_manual.display?id=616&tab=description
+2865,Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments,http://www.osha.gov/pls/imis/sic_manual.display?id=617&tab=description
+2869,Industrial Organic Chemicals, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1004&tab=description
+287,Agricultural Chemicals,
+2873,Nitrogenous Fertilizers,http://www.osha.gov/pls/imis/sic_manual.display?id=618&tab=description
+2874,Phosphatic Fertilizers,http://www.osha.gov/pls/imis/sic_manual.display?id=619&tab=description
+2875,Fertilizers, Mixing Only,http://www.osha.gov/pls/imis/sic_manual.display?id=620&tab=description
+2879,Pesticides and Agricultural Chemicals, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=621&tab=description
+289,Miscellaneous Chemical Products,
+2891,Adhesives and Sealants,http://www.osha.gov/pls/imis/sic_manual.display?id=622&tab=description
+2892,Explosives,http://www.osha.gov/pls/imis/sic_manual.display?id=623&tab=description
+2893,Printing Ink,http://www.osha.gov/pls/imis/sic_manual.display?id=624&tab=description
+2895,Carbon Black,http://www.osha.gov/pls/imis/sic_manual.display?id=625&tab=description
+2899,Chemicals and Chemical Preparations, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=626&tab=description
+29,Petroleum Refining And Related Industries,http://www.osha.gov/pls/imis/sic_manual.display?id=22&tab=group
+291,Petroleum Refining,
+2911,Petroleum Refining,http://www.osha.gov/pls/imis/sic_manual.display?id=627&tab=description
+295,Asphalt Paving And Roofing Materials,
+2951,Asphalt Paving Mixtures and Blocks,http://www.osha.gov/pls/imis/sic_manual.display?id=628&tab=description
+2952,Asphalt Felts and Coatings,http://www.osha.gov/pls/imis/sic_manual.display?id=629&tab=description
+299,Miscellaneous Products Of Petroleum And Coal,
+2992,Lubricating Oils and Greases,http://www.osha.gov/pls/imis/sic_manual.display?id=630&tab=description
+2999,Products of Petroleum and Coal, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=631&tab=description
+30,Rubber And Miscellaneous Plastics Products,http://www.osha.gov/pls/imis/sic_manual.display?id=23&tab=group
+301,Tires And Inner Tubes,
+3011,Tires and Inner Tubes,http://www.osha.gov/pls/imis/sic_manual.display?id=632&tab=description
+302,Rubber And Plastics Footwear,
+3021,Rubber and Plastics Footwear,http://www.osha.gov/pls/imis/sic_manual.display?id=633&tab=description
+305,Gaskets, Packing, And Sealing Devices And Rubber,
+3052,Rubber and Plastics Hose and Belting,http://www.osha.gov/pls/imis/sic_manual.display?id=634&tab=description
+3053,Gaskets, Packing, and Sealing Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=635&tab=description
+306,Fabricated Rubber Products, Not Elsewhere,
+3061,Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods,http://www.osha.gov/pls/imis/sic_manual.display?id=636&tab=description
+3069,Fabricated Rubber Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1005&tab=description
+308,Miscellaneous Plastics Products,
+3081,Unsupported Plastics Film and Sheet,http://www.osha.gov/pls/imis/sic_manual.display?id=638&tab=description
+3082,Unsupported Plastics Profile Shapes,http://www.osha.gov/pls/imis/sic_manual.display?id=639&tab=description
+3083,Laminated Plastics Plate, Sheet, and Profile Shapes,http://www.osha.gov/pls/imis/sic_manual.display?id=640&tab=description
+3084,Plastics Pipe,http://www.osha.gov/pls/imis/sic_manual.display?id=641&tab=description
+3085,Plastics Bottles,http://www.osha.gov/pls/imis/sic_manual.display?id=642&tab=description
+3086,Plastics Foam Products,http://www.osha.gov/pls/imis/sic_manual.display?id=643&tab=description
+3087,Custom Compounding of Purchased Plastics Resins,http://www.osha.gov/pls/imis/sic_manual.display?id=644&tab=description
+3088,Plastics Plumbing Fixtures,http://www.osha.gov/pls/imis/sic_manual.display?id=645&tab=description
+3089,Plastics Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1006&tab=description
+31,Leather And Leather Products,http://www.osha.gov/pls/imis/sic_manual.display?id=24&tab=group
+311,Leather Tanning And Finishing,
+3111,Leather Tanning and Finishing,http://www.osha.gov/pls/imis/sic_manual.display?id=646&tab=description
+313,Boot And Shoe Cut Stock And Findings,
+3131,Boot and Shoe Cut Stock and Findings,http://www.osha.gov/pls/imis/sic_manual.display?id=647&tab=description
+314,Footwear, Except Rubber,
+3142,House Slippers,http://www.osha.gov/pls/imis/sic_manual.display?id=648&tab=description
+3143,Men's Footwear, Except Athletic,http://www.osha.gov/pls/imis/sic_manual.display?id=649&tab=description
+3144,Women's Footwear, Except Athletic,http://www.osha.gov/pls/imis/sic_manual.display?id=650&tab=description
+3149,Footwear, Except Rubber, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=651&tab=description
+315,Leather Gloves And Mittens,
+3151,Leather Gloves and Mittens,http://www.osha.gov/pls/imis/sic_manual.display?id=652&tab=description
+316,Luggage,
+3161,Luggage,http://www.osha.gov/pls/imis/sic_manual.display?id=653&tab=description
+317,Handbags And Other Personal Leather Goods,
+3171,Women's Handbags and Purses,http://www.osha.gov/pls/imis/sic_manual.display?id=654&tab=description
+3172,Personal Leather Goods, Except Women's Handbags and Purses,http://www.osha.gov/pls/imis/sic_manual.display?id=655&tab=description
+319,Leather Goods, Not Elsewhere Classified,
+3199,Leather Goods, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=656&tab=description
+32,Stone, Clay, Glass, And Concrete Products,http://www.osha.gov/pls/imis/sic_manual.display?id=25&tab=group
+321,Flat Glass,
+3211,Flat Glass,http://www.osha.gov/pls/imis/sic_manual.display?id=657&tab=description
+322,Glass And Glassware, Pressed Or Blown,
+3221,Glass Containers,http://www.osha.gov/pls/imis/sic_manual.display?id=658&tab=description
+3229,Pressed and Blown Glass and Glassware, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=659&tab=description
+323,Glass Products, Made Of Purchased Glass,
+3231,Glass Products, Made of Purchased Glass,http://www.osha.gov/pls/imis/sic_manual.display?id=660&tab=description
+324,Cement, Hydraulic,
+3241,Cement, Hydraulic,http://www.osha.gov/pls/imis/sic_manual.display?id=661&tab=description
+325,Structural Clay Products,
+3251,Brick and Structural Clay Tile,http://www.osha.gov/pls/imis/sic_manual.display?id=662&tab=description
+3253,Ceramic Wall and Floor Tile,http://www.osha.gov/pls/imis/sic_manual.display?id=663&tab=description
+3255,Clay Refractories,http://www.osha.gov/pls/imis/sic_manual.display?id=664&tab=description
+3259,Structural Clay Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=665&tab=description
+326,Pottery And Related Products,
+3261,Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories,http://www.osha.gov/pls/imis/sic_manual.display?id=666&tab=description
+3262,Vitreous China Table and Kitchen Articles,http://www.osha.gov/pls/imis/sic_manual.display?id=667&tab=description
+3263,Fine Earthenware (Whiteware) Table and Kitchen Articles,http://www.osha.gov/pls/imis/sic_manual.display?id=668&tab=description
+3264,Porcelain Electrical Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=669&tab=description
+3269,Pottery Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=670&tab=description
+327,Concrete, Gypsum, And Plaster Products,
+3271,Concrete Block and Brick,http://www.osha.gov/pls/imis/sic_manual.display?id=671&tab=description
+3272,Concrete Products, Except Block and Brick,http://www.osha.gov/pls/imis/sic_manual.display?id=672&tab=description
+3273,Ready-Mixed Concrete,http://www.osha.gov/pls/imis/sic_manual.display?id=673&tab=description
+3274,Lime,http://www.osha.gov/pls/imis/sic_manual.display?id=674&tab=description
+3275,Gypsum Products,http://www.osha.gov/pls/imis/sic_manual.display?id=675&tab=description
+328,Cut Stone And Stone Products,
+3281,Cut Stone and Stone Products,http://www.osha.gov/pls/imis/sic_manual.display?id=676&tab=description
+329,Abrasive, Asbestos, And Miscellaneous,
+3291,Abrasive Products,http://www.osha.gov/pls/imis/sic_manual.display?id=677&tab=description
+3292,Asbestos Products,http://www.osha.gov/pls/imis/sic_manual.display?id=678&tab=description
+3295,Minerals and Earths, Ground or Otherwise Treated,http://www.osha.gov/pls/imis/sic_manual.display?id=679&tab=description
+3296,Mineral Wool,http://www.osha.gov/pls/imis/sic_manual.display?id=680&tab=description
+3297,Nonclay Refractories,http://www.osha.gov/pls/imis/sic_manual.display?id=681&tab=description
+3299,Nonmetallic Mineral Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=682&tab=description
+33,Primary Metal Industries,http://www.osha.gov/pls/imis/sic_manual.display?id=26&tab=group
+331,Steel Works, Blast Furnaces, And Rolling And Finishing Mills,
+3312,Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills,http://www.osha.gov/pls/imis/sic_manual.display?id=683&tab=description
+3313,Electrometallurgical Products, Except Steel,http://www.osha.gov/pls/imis/sic_manual.display?id=684&tab=description
+3315,Steel Wiredrawing and Steel Nails and Spikes,http://www.osha.gov/pls/imis/sic_manual.display?id=685&tab=description
+3316,Cold-Rolled Steel Sheet, Strip, and Bars,http://www.osha.gov/pls/imis/sic_manual.display?id=686&tab=description
+3317,Steel Pipe and Tubes,http://www.osha.gov/pls/imis/sic_manual.display?id=687&tab=description
+332,Iron And Steel Foundries,
+3321,Gray and Ductile Iron Foundries,http://www.osha.gov/pls/imis/sic_manual.display?id=688&tab=description
+3322,Malleable Iron Foundries,http://www.osha.gov/pls/imis/sic_manual.display?id=689&tab=description
+3324,Steel Investment Foundries,http://www.osha.gov/pls/imis/sic_manual.display?id=690&tab=description
+3325,Steel Foundries, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=691&tab=description
+333,Primary Smelting And Refining Of Nonferrous,
+3331,Primary Smelting and Refining of Copper,http://www.osha.gov/pls/imis/sic_manual.display?id=692&tab=description
+3334,Primary Production of Aluminum,http://www.osha.gov/pls/imis/sic_manual.display?id=693&tab=description
+3339,Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum,http://www.osha.gov/pls/imis/sic_manual.display?id=304&tab=description
+334,Secondary Smelting And Refining Of Nonferrous,
+3341,Secondary Smelting and Refining of Nonferrous Metals,http://www.osha.gov/pls/imis/sic_manual.display?id=305&tab=description
+335,Rolling, Drawing, And Extruding Of Nonferrous,
+3351,Rolling, Drawing, and Extruding Of Copper,http://www.osha.gov/pls/imis/sic_manual.display?id=701&tab=description
+3353,Aluminum Sheet, Plate, and Foil,http://www.osha.gov/pls/imis/sic_manual.display?id=702&tab=description
+3354,Aluminum Extruded Products,http://www.osha.gov/pls/imis/sic_manual.display?id=703&tab=description
+3355,Aluminum Rolling and Drawing, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=704&tab=description
+3356,Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum,http://www.osha.gov/pls/imis/sic_manual.display?id=705&tab=description
+3357,Drawing and Insulating of Nonferrous Wire,http://www.osha.gov/pls/imis/sic_manual.display?id=706&tab=description
+336,Nonferrous Foundries (castings),
+3363,Aluminum Die-Castings,http://www.osha.gov/pls/imis/sic_manual.display?id=707&tab=description
+3364,Nonferrous Die-Castings, Except Aluminum,http://www.osha.gov/pls/imis/sic_manual.display?id=708&tab=description
+3365,Aluminum Foundries,http://www.osha.gov/pls/imis/sic_manual.display?id=709&tab=description
+3366,Copper Foundries,http://www.osha.gov/pls/imis/sic_manual.display?id=710&tab=description
+3369,Nonferrous Foundries, Except Aluminum and Copper,http://www.osha.gov/pls/imis/sic_manual.display?id=711&tab=description
+339,Miscellaneous Primary Metal Products,
+3398,Metal Heat Treating,http://www.osha.gov/pls/imis/sic_manual.display?id=712&tab=description
+3399,Primary Metal Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=713&tab=description
+34,Fabricated Metal Products, Except Machinery And Transportation Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=27&tab=group
+341,Metal Cans And Shipping Containers,
+3411,Metal Cans,http://www.osha.gov/pls/imis/sic_manual.display?id=714&tab=description
+3412,Metal Shipping Barrels, Drums, Kegs, and Pails,http://www.osha.gov/pls/imis/sic_manual.display?id=715&tab=description
+342,Cutlery, Handtools, And General Hardware,
+3421,Cutlery,http://www.osha.gov/pls/imis/sic_manual.display?id=716&tab=description
+3423,Hand and Edge Tools, Except Machine Tools and Handsaws,http://www.osha.gov/pls/imis/sic_manual.display?id=717&tab=description
+3425,Saw Blades and Handsaws,http://www.osha.gov/pls/imis/sic_manual.display?id=718&tab=description
+3429,Hardware, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=719&tab=description
+343,Heating Equipment, Except Electric And Warm Air;,
+3431,Enameled Iron and Metal Sanitary Ware,http://www.osha.gov/pls/imis/sic_manual.display?id=720&tab=description
+3432,Plumbing Fixture Fittings and Trim,http://www.osha.gov/pls/imis/sic_manual.display?id=721&tab=description
+3433,Heating Equipment, Except Electric and Warm Air Furnaces,http://www.osha.gov/pls/imis/sic_manual.display?id=722&tab=description
+344,Fabricated Structural Metal Products,
+3441,Fabricated Structural Metal,http://www.osha.gov/pls/imis/sic_manual.display?id=723&tab=description
+3442,Metal Doors, Sash, Frames, Molding, and Trim Manufacturing,http://www.osha.gov/pls/imis/sic_manual.display?id=724&tab=description
+3443,Fabricated Plate Work (Boiler Shops),http://www.osha.gov/pls/imis/sic_manual.display?id=1007&tab=description
+3444,Sheet Metal Work,http://www.osha.gov/pls/imis/sic_manual.display?id=726&tab=description
+3446,Architectural and Ornamental Metal Work,http://www.osha.gov/pls/imis/sic_manual.display?id=727&tab=description
+3448,Prefabricated Metal Buildings and Components,http://www.osha.gov/pls/imis/sic_manual.display?id=728&tab=description
+3449,Miscellaneous Structural Metal Work,http://www.osha.gov/pls/imis/sic_manual.display?id=729&tab=description
+345,Screw Machine Products, And Bolts, Nuts, Screws, Rivets, And Washers,
+3451,Screw Machine Products,http://www.osha.gov/pls/imis/sic_manual.display?id=730&tab=description
+3452,Bolts, Nuts, Screws, Rivets, and Washers,http://www.osha.gov/pls/imis/sic_manual.display?id=731&tab=description
+346,Metal Forgings And Stampings,
+3462,Iron and Steel Forgings,http://www.osha.gov/pls/imis/sic_manual.display?id=732&tab=description
+3463,Nonferrous Forgings,http://www.osha.gov/pls/imis/sic_manual.display?id=733&tab=description
+3465,Automotive Stampings,http://www.osha.gov/pls/imis/sic_manual.display?id=734&tab=description
+3466,Crowns and Closures,http://www.osha.gov/pls/imis/sic_manual.display?id=735&tab=description
+3469,Metal Stampings, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=736&tab=description
+347,Coating, Engraving, And Allied Services,
+3471,Electroplating, Plating, Polishing, Anodizing, and Coloring,http://www.osha.gov/pls/imis/sic_manual.display?id=737&tab=description
+3479,Coating, Engraving, and Allied Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=738&tab=description
+348,Ordnance And Accessories, Except Vehicles And Guided Missiles,
+3482,Small Arms Ammunition,http://www.osha.gov/pls/imis/sic_manual.display?id=739&tab=description
+3483,Ammunition, Except for Small Arms,http://www.osha.gov/pls/imis/sic_manual.display?id=740&tab=description
+3484,Small Arms,http://www.osha.gov/pls/imis/sic_manual.display?id=741&tab=description
+3489,Ordnance and Accessories, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=742&tab=description
+349,Miscellaneous Fabricated Metal Products,
+3491,Industrial Valves,http://www.osha.gov/pls/imis/sic_manual.display?id=743&tab=description
+3492,Fluid Power Valves and Hose Fittings,http://www.osha.gov/pls/imis/sic_manual.display?id=744&tab=description
+3493,Steel Springs, Except Wire,http://www.osha.gov/pls/imis/sic_manual.display?id=745&tab=description
+3494,Valves and Pipe Fittings, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=746&tab=description
+3495,Wire Springs,http://www.osha.gov/pls/imis/sic_manual.display?id=747&tab=description
+3496,Miscellaneous Fabricated Wire Products,http://www.osha.gov/pls/imis/sic_manual.display?id=748&tab=description
+3497,Metal Foil and Leaf,http://www.osha.gov/pls/imis/sic_manual.display?id=749&tab=description
+3498,Fabricated Pipe and Pipe Fittings,http://www.osha.gov/pls/imis/sic_manual.display?id=750&tab=description
+3499,Fabricated Metal Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=751&tab=description
+35,Industrial And Commercial Machinery And Computer Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=28&tab=group
+351,Engines And Turbines,
+3511,Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units,http://www.osha.gov/pls/imis/sic_manual.display?id=752&tab=description
+3519,Internal Combustion Engines, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=753&tab=description
+352,Farm And Garden Machinery And Equipment,
+3523,Farm Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=1008&tab=description
+3524,Lawn and Garden Tractors and Home Lawn and Garden Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=755&tab=description
+353,Construction, Mining, And Materials Handling,
+3531,Construction Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=1009&tab=description
+3532,Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=757&tab=description
+3533,Oil and Gas Field Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=758&tab=description
+3534,Elevators and Moving Stairways,http://www.osha.gov/pls/imis/sic_manual.display?id=759&tab=description
+3535,Conveyors and Conveying Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=760&tab=description
+3536,Overhead Traveling Cranes, Hoists, and Monorail Systems,http://www.osha.gov/pls/imis/sic_manual.display?id=761&tab=description
+3537,Industrial Trucks, Tractors, Trailers, and Stackers,http://www.osha.gov/pls/imis/sic_manual.display?id=762&tab=description
+354,Metalworking Machinery And Equipment,
+3541,Machine Tools, Metal Cutting Types,http://www.osha.gov/pls/imis/sic_manual.display?id=763&tab=description
+3542,Machine Tools, Metal Forming Types,http://www.osha.gov/pls/imis/sic_manual.display?id=764&tab=description
+3543,Industrial Patterns,http://www.osha.gov/pls/imis/sic_manual.display?id=765&tab=description
+3544,Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds,http://www.osha.gov/pls/imis/sic_manual.display?id=766&tab=description
+3545,Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=767&tab=description
+3546,Power-Driven Handtools,http://www.osha.gov/pls/imis/sic_manual.display?id=768&tab=description
+3547,Rolling Mill Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=769&tab=description
+3548,Electric and Gas Welding and Soldering Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=770&tab=description
+3549,Metalworking Machinery, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=771&tab=description
+355,Special Industry Machinery, Except Metalworking,
+3552,Textile Machinery,http://www.osha.gov/pls/imis/sic_manual.display?id=772&tab=description
+3553,Woodworking Machinery,http://www.osha.gov/pls/imis/sic_manual.display?id=773&tab=description
+3554,Paper Industries Machinery,http://www.osha.gov/pls/imis/sic_manual.display?id=774&tab=description
+3555,Printing Trades Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=775&tab=description
+3556,Food Products Machinery,http://www.osha.gov/pls/imis/sic_manual.display?id=776&tab=description
+3559,Special Industry Machinery, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=777&tab=description
+356,General Industrial Machinery And Equipment,
+3561,Pumps and Pumping Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=778&tab=description
+3562,Ball and Roller Bearings,http://www.osha.gov/pls/imis/sic_manual.display?id=779&tab=description
+3563,Air and Gas Compressors,http://www.osha.gov/pls/imis/sic_manual.display?id=780&tab=description
+3564,Industrial and Commercial Fans and Blowers and Air Purification Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=781&tab=description
+3565,Packaging Machinery,http://www.osha.gov/pls/imis/sic_manual.display?id=782&tab=description
+3566,Speed Changers, Industrial High-Speed Drives, and Gears,http://www.osha.gov/pls/imis/sic_manual.display?id=783&tab=description
+3567,Industrial Process Furnaces and Ovens,http://www.osha.gov/pls/imis/sic_manual.display?id=784&tab=description
+3568,Mechanical Power Transmission Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=785&tab=description
+3569,General Industrial Machinery and Equipment, Not Elsewhere,http://www.osha.gov/pls/imis/sic_manual.display?id=786&tab=description
+357,Computer And Office Equipment,
+3571,Electronic Computers,http://www.osha.gov/pls/imis/sic_manual.display?id=787&tab=description
+3572,Computer Storage Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=788&tab=description
+3575,Computer Terminals,http://www.osha.gov/pls/imis/sic_manual.display?id=789&tab=description
+3577,Computer Peripheral Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=790&tab=description
+3578,Calculating and Accounting Machines, Except Electronic Computers,http://www.osha.gov/pls/imis/sic_manual.display?id=791&tab=description
+3579,Office Machines, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=792&tab=description
+358,Refrigeration And Service Industry Machinery,
+3581,Automatic Vending Machines,http://www.osha.gov/pls/imis/sic_manual.display?id=793&tab=description
+3582,Commercial Laundry, Drycleaning, and Pressing Machines,http://www.osha.gov/pls/imis/sic_manual.display?id=794&tab=description
+3585,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=795&tab=description
+3586,Measuring and Dispensing Pumps,http://www.osha.gov/pls/imis/sic_manual.display?id=796&tab=description
+3589,Service Industry Machinery, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=797&tab=description
+359,Miscellaneous Industrial And Commercial,
+3592,Carburetors, Pistons, Piston Rings, and Valves,http://www.osha.gov/pls/imis/sic_manual.display?id=798&tab=description
+3593,Fluid Power Cylinders and Actuators,http://www.osha.gov/pls/imis/sic_manual.display?id=799&tab=description
+3594,Fluid Power Pumps and Motors,http://www.osha.gov/pls/imis/sic_manual.display?id=800&tab=description
+3596,Scales and Balances, Except Laboratory,http://www.osha.gov/pls/imis/sic_manual.display?id=801&tab=description
+3599,Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=802&tab=description
+36,Electronic And Other Electrical Equipment And Components, Except Computer Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=29&tab=group
+361,Electric Transmission And Distribution Equipment,
+3612,Power, Distribution, and Specialty Transformers,http://www.osha.gov/pls/imis/sic_manual.display?id=803&tab=description
+3613,Switchgear and Switchboard Apparatus,http://www.osha.gov/pls/imis/sic_manual.display?id=804&tab=description
+362,Electrical Industrial Apparatus,
+3621,Motors and Generators,http://www.osha.gov/pls/imis/sic_manual.display?id=805&tab=description
+3624,Carbon and Graphite Products,http://www.osha.gov/pls/imis/sic_manual.display?id=806&tab=description
+3625,Relays and Industrial Controls,http://www.osha.gov/pls/imis/sic_manual.display?id=807&tab=description
+3629,Electrical Industrial Apparatus, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=808&tab=description
+363,Household Appliances,
+3631,Household Cooking Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=809&tab=description
+3632,Household Refrigerators and HOme and Farm Freezers,http://www.osha.gov/pls/imis/sic_manual.display?id=810&tab=description
+3633,Household Laundry Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=811&tab=description
+3634,Electric Housewares and Fans,http://www.osha.gov/pls/imis/sic_manual.display?id=812&tab=description
+3635,Household Vacuum Cleaners,http://www.osha.gov/pls/imis/sic_manual.display?id=813&tab=description
+3639,Household Appliances, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=814&tab=description
+364,Electric Lighting And Wiring Equipment,
+3641,Electric Lamp Bulbs and Tubes,http://www.osha.gov/pls/imis/sic_manual.display?id=815&tab=description
+3643,Current-Carrying Wiring Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=816&tab=description
+3644,Noncurrent-Carrying Wiring Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=817&tab=description
+3645,Residential Electric Lighting Fixtures,http://www.osha.gov/pls/imis/sic_manual.display?id=818&tab=description
+3646,Commercial, Industrial, and Institutional Electric Lighting Fixtures,http://www.osha.gov/pls/imis/sic_manual.display?id=819&tab=description
+3647,Vehicular Lighting Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=820&tab=description
+3648,Lighting Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=821&tab=description
+365,Household Audio And Video Equipment, And Audio,
+3651,Household Audio and Video Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=822&tab=description
+3652,Phonograph Records and Prerecorded Audio Tapes and Disks,http://www.osha.gov/pls/imis/sic_manual.display?id=823&tab=description
+366,Communications Equipment,
+3661,Telephone and Telegraph Apparatus,http://www.osha.gov/pls/imis/sic_manual.display?id=824&tab=description
+3663,Radio and Television Broadcasting and Communications Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=825&tab=description
+3669,Communications Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=826&tab=description
+367,Electronic Components And Accessories,
+3671,Electron Tubes,http://www.osha.gov/pls/imis/sic_manual.display?id=827&tab=description
+3672,Printed Circuit Boards,http://www.osha.gov/pls/imis/sic_manual.display?id=828&tab=description
+3674,Semiconductors and Related Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=829&tab=description
+3675,Electronic Capacitors,http://www.osha.gov/pls/imis/sic_manual.display?id=830&tab=description
+3676,Electronic Resistors,http://www.osha.gov/pls/imis/sic_manual.display?id=831&tab=description
+3677,Electronic Coils, Transformers, and Other Inductors,http://www.osha.gov/pls/imis/sic_manual.display?id=832&tab=description
+3678,Electronic Connectors,http://www.osha.gov/pls/imis/sic_manual.display?id=833&tab=description
+3679,Electronic Components, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=834&tab=description
+369,Miscellaneous Electrical Machinery, Equipment, and Supplies,
+3691,Storage Batteries,http://www.osha.gov/pls/imis/sic_manual.display?id=835&tab=description
+3692,Primary Batteries, Dry and Wet,http://www.osha.gov/pls/imis/sic_manual.display?id=836&tab=description
+3694,Electrical Equipment for Internal Combustion Engines,http://www.osha.gov/pls/imis/sic_manual.display?id=837&tab=description
+3695,Magnetic And Optical Recording Media,http://www.osha.gov/pls/imis/sic_manual.display?id=838&tab=description
+3699,Electrical Machinery, Equipment, and Supplies, Not Elsewhere,http://www.osha.gov/pls/imis/sic_manual.display?id=839&tab=description
+37,Transportation Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=30&tab=group
+371,Motor Vehicles And Motor Vehicle Equipment,
+3711,Motor Vehicles and Passenger Car Bodies,http://www.osha.gov/pls/imis/sic_manual.display?id=840&tab=description
+3713,Truck and Bus Bodies,http://www.osha.gov/pls/imis/sic_manual.display?id=841&tab=description
+3714,Motor Vehicle Parts and Accessories,http://www.osha.gov/pls/imis/sic_manual.display?id=842&tab=description
+3715,Truck Trailers,http://www.osha.gov/pls/imis/sic_manual.display?id=843&tab=description
+3716,Motor Homes,http://www.osha.gov/pls/imis/sic_manual.display?id=844&tab=description
+372,Aircraft And Parts,
+3721,Aircraft,http://www.osha.gov/pls/imis/sic_manual.display?id=845&tab=description
+3724,Aircraft Engines and Engine Parts,http://www.osha.gov/pls/imis/sic_manual.display?id=846&tab=description
+3728,Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=847&tab=description
+373,Ship And Boat Building And Repairing,
+3731,Ship Building and Repairing,http://www.osha.gov/pls/imis/sic_manual.display?id=848&tab=description
+3732,Boat Building and Repairing,http://www.osha.gov/pls/imis/sic_manual.display?id=849&tab=description
+374,Railroad Equipment,
+3743,Railroad Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=850&tab=description
+375,Motorcycles, Bicycles, And Parts,
+3751,Motorcycles, Bicycles, and Parts,http://www.osha.gov/pls/imis/sic_manual.display?id=851&tab=description
+376,Guided Missiles And Space Vehicles And Parts,
+3761,Guided Missiles and Space Vehicles,http://www.osha.gov/pls/imis/sic_manual.display?id=852&tab=description
+3764,Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts,http://www.osha.gov/pls/imis/sic_manual.display?id=853&tab=description
+3769,Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=854&tab=description
+379,Miscellaneous Transportation Equipment,
+3792,Travel Trailers and Campers,http://www.osha.gov/pls/imis/sic_manual.display?id=855&tab=description
+3795,Tanks and Tank Components,http://www.osha.gov/pls/imis/sic_manual.display?id=856&tab=description
+3799,Transportation Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=857&tab=description
+38,Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks,http://www.osha.gov/pls/imis/sic_manual.display?id=31&tab=group
+381,Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment,
+3812,Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments,http://www.osha.gov/pls/imis/sic_manual.display?id=858&tab=description
+382,Laboratory Apparatus And Analytical, Optical,  Measuring, and Controlling Instruments,
+3821,Laboratory Apparatus and Furniture,http://www.osha.gov/pls/imis/sic_manual.display?id=859&tab=description
+3822,Automatic Controls for Regulating Residential and Commercial Environments and Appliances,http://www.osha.gov/pls/imis/sic_manual.display?id=860&tab=description
+3823,Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products,http://www.osha.gov/pls/imis/sic_manual.display?id=1010&tab=description
+3824,Totalizing Fluid Meters and Counting Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=862&tab=description
+3825,Instruments for Measuring and Testing of Electricity and Electrical Signals,http://www.osha.gov/pls/imis/sic_manual.display?id=1011&tab=description
+3826,Laboratory Analytical Instruments,http://www.osha.gov/pls/imis/sic_manual.display?id=863&tab=description
+3827,Optical Instruments and Lenses,http://www.osha.gov/pls/imis/sic_manual.display?id=864&tab=description
+3829,Measuring and Controlling Devices, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=865&tab=description
+384,Surgical, Medical, And Dental Instruments And Supplies,
+3841,Surgical and Medical Instruments and Apparatus,http://www.osha.gov/pls/imis/sic_manual.display?id=866&tab=description
+3842,Orthopedic, Prosthetic, and Surgical Appliances and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=867&tab=description
+3843,Dental Equipment and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=868&tab=description
+3844,X-Ray Apparatus and Tubes and Related Irradiation Apparatus,http://www.osha.gov/pls/imis/sic_manual.display?id=869&tab=description
+3845,Electromedical and Electrotherapeutic Apparatus,http://www.osha.gov/pls/imis/sic_manual.display?id=870&tab=description
+385,Ophthalmic Goods,
+3851,Ophthalmic Goods,http://www.osha.gov/pls/imis/sic_manual.display?id=871&tab=description
+386,Photographic Equipment And Supplies,
+3861,Photographic Equipment and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=872&tab=description
+387,Watches, Clocks, Clockwork Operated Devices, and Parts,
+3873,Watches, Clocks, Clockwork Operated Devices, and Parts,http://www.osha.gov/pls/imis/sic_manual.display?id=873&tab=description
+39,Miscellaneous Manufacturing Industries,http://www.osha.gov/pls/imis/sic_manual.display?id=32&tab=group
+391,Jewelry, Silverware, And Plated Ware,
+3911,Jewelry, Precious Metal,http://www.osha.gov/pls/imis/sic_manual.display?id=874&tab=description
+3914,Silverware, Plated Ware, and Stainless Steel Ware,http://www.osha.gov/pls/imis/sic_manual.display?id=875&tab=description
+3915,Jewelers' Findings and Materials, and Lapidary Work,http://www.osha.gov/pls/imis/sic_manual.display?id=876&tab=description
+393,Musical Instruments,
+3931,Musical Instruments,http://www.osha.gov/pls/imis/sic_manual.display?id=877&tab=description
+394,Dolls, Toys, Games And Sporting And Athletic,
+3942,Dolls and Stuffed Toys,http://www.osha.gov/pls/imis/sic_manual.display?id=878&tab=description
+3944,Games, Toys, and Children's Vehicles, Except Dolls and Bicycles,http://www.osha.gov/pls/imis/sic_manual.display?id=879&tab=description
+3949,Sporting and Athletic Goods, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=880&tab=description
+395,Pens, Pencils, And Other Artists Materials,
+3951,Pens, Mechanical Pencils, and Parts,http://www.osha.gov/pls/imis/sic_manual.display?id=881&tab=description
+3952,Lead Pencils, Crayons, and Artists' Materials,http://www.osha.gov/pls/imis/sic_manual.display?id=882&tab=description
+3953,Marking Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=883&tab=description
+3955,Carbon Paper and Inked Ribbons,http://www.osha.gov/pls/imis/sic_manual.display?id=884&tab=description
+396,Costume Jewelry, Costume Novelties, Buttons, And Miscellaneous Notions, Ecept Precious Metal,
+3961,Costume Jewelry and Costume Novelties, Except Precious Metal,http://www.osha.gov/pls/imis/sic_manual.display?id=885&tab=description
+3965,Fasteners, Buttons, Needles, and Pins,http://www.osha.gov/pls/imis/sic_manual.display?id=886&tab=description
+399,Miscellaneous Manufacturing Industries,
+3991,Brooms and Brushes,http://www.osha.gov/pls/imis/sic_manual.display?id=887&tab=description
+3993,Signs and Advertising Specialties,http://www.osha.gov/pls/imis/sic_manual.display?id=888&tab=description
+3995,Burial Caskets,http://www.osha.gov/pls/imis/sic_manual.display?id=889&tab=description
+3996,Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=890&tab=description
+3999,Manufacturing Industries, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1012&tab=description
+E,Transportation, Communications, Electric, Gas, And Sanitary Services,http://www.osha.gov/pls/imis/sic_manual.display?id=5&tab=division
+40,Railroad Transportation,http://www.osha.gov/pls/imis/sic_manual.display?id=33&tab=group
+401,Railroads,
+4011,Railroads, Line-Haul Operating,http://www.osha.gov/pls/imis/sic_manual.display?id=892&tab=description
+4013,Railroad Switching and Terminal Establishments,http://www.osha.gov/pls/imis/sic_manual.display?id=893&tab=description
+41,Local And Suburban Transit And Interurban Highway Passenger Transportation,http://www.osha.gov/pls/imis/sic_manual.display?id=34&tab=group
+411,Local And Suburban Passenger Transportation,
+4111,Local and Suburban Transit,http://www.osha.gov/pls/imis/sic_manual.display?id=894&tab=description
+4119,Local Passenger Transportation, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=895&tab=description
+412,Taxicabs,
+4121,Taxicabs,http://www.osha.gov/pls/imis/sic_manual.display?id=896&tab=description
+413,Intercity And Rural Bus Transportation,
+4131,Intercity and Rural Bus Transportation,http://www.osha.gov/pls/imis/sic_manual.display?id=897&tab=description
+414,Bus Charter Service,
+4141,Local Bus Charter Service,http://www.osha.gov/pls/imis/sic_manual.display?id=898&tab=description
+4142,Bus Charter Service, Except Local,http://www.osha.gov/pls/imis/sic_manual.display?id=899&tab=description
+415,School Buses,
+4151,School Buses,http://www.osha.gov/pls/imis/sic_manual.display?id=900&tab=description
+417,Terminal And Service Facilities For Motor Vehicle,
+4173,Terminal and Service Facilities for Motor Vehicle Passenger Transportation,http://www.osha.gov/pls/imis/sic_manual.display?id=901&tab=description
+42,Motor Freight Transportation And Warehousing,http://www.osha.gov/pls/imis/sic_manual.display?id=35&tab=group
+421,Trucking And Courier Services, Except Air,
+4212,Local Trucking Without Storage,http://www.osha.gov/pls/imis/sic_manual.display?id=902&tab=description
+4213,Trucking, Except Local,http://www.osha.gov/pls/imis/sic_manual.display?id=903&tab=description
+4214,Local Trucking With Storage,http://www.osha.gov/pls/imis/sic_manual.display?id=904&tab=description
+4215,Courier Services, Except by Air,http://www.osha.gov/pls/imis/sic_manual.display?id=905&tab=description
+422,Public Warehousing And Storage,
+4221,Farm Product Warehousing and Storage,http://www.osha.gov/pls/imis/sic_manual.display?id=906&tab=description
+4222,Refrigerated Warehousing and Storage,http://www.osha.gov/pls/imis/sic_manual.display?id=907&tab=description
+4225,General Warehousing and Storage,http://www.osha.gov/pls/imis/sic_manual.display?id=908&tab=description
+4226,Special Warehousing and Storage, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=909&tab=description
+423,Terminal And Joint Terminal Maintenance,
+4231,Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation,http://www.osha.gov/pls/imis/sic_manual.display?id=910&tab=description
+43,United States Postal Service,http://www.osha.gov/pls/imis/sic_manual.display?id=36&tab=group
+431,United States Postal Service,
+4311,United States Postal Service,http://www.osha.gov/pls/imis/sic_manual.display?id=911&tab=description
+44,Water Transportation,http://www.osha.gov/pls/imis/sic_manual.display?id=37&tab=group
+441,Deep Sea Foreign Transportation Of Freight,
+4412,Deep Sea Foreign Transportation of Freight,http://www.osha.gov/pls/imis/sic_manual.display?id=912&tab=description
+442,Deep Sea Domestic Transportation Of Freight,
+4424,Deep Sea Domestic Transportation of Freight,http://www.osha.gov/pls/imis/sic_manual.display?id=913&tab=description
+443,Freight Transportation On The Great Lakes-st.,
+4432,Freight Transportation on the Great Lakes-St. Lawrence Seaway,http://www.osha.gov/pls/imis/sic_manual.display?id=914&tab=description
+444,Water Transportation Of Freight, Not Elsewhere,
+4449,Water Transportation of Freight, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=915&tab=description
+448,Water Transportation Of Passengers,
+4481,Deep Sea Transportation of Passengers, Except by Ferry,http://www.osha.gov/pls/imis/sic_manual.display?id=916&tab=description
+4482,Ferries,http://www.osha.gov/pls/imis/sic_manual.display?id=917&tab=description
+4489,Water Transportation of Passengers, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=918&tab=description
+449,Services Incidental To Water Transportation,
+4491,Marine Cargo Handling,http://www.osha.gov/pls/imis/sic_manual.display?id=919&tab=description
+4492,Towing and Tugboat Services,http://www.osha.gov/pls/imis/sic_manual.display?id=920&tab=description
+4493,Marinas,http://www.osha.gov/pls/imis/sic_manual.display?id=921&tab=description
+4499,Water Transportation Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=922&tab=description
+45,Transportation By Air,http://www.osha.gov/pls/imis/sic_manual.display?id=38&tab=group
+451,Air Transportation, Scheduled, And Air Courier,
+4512,Air Transportation, Scheduled,http://www.osha.gov/pls/imis/sic_manual.display?id=923&tab=description
+4513,Air Courier Services,http://www.osha.gov/pls/imis/sic_manual.display?id=924&tab=description
+452,Air Transportation, Nonscheduled,
+4522,Air Transportation, Nonscheduled,http://www.osha.gov/pls/imis/sic_manual.display?id=925&tab=description
+458,Airports, Flying Fields, And Airport Terminal,
+4581,Airports, Flying Fields, and Airport Terminal Services,http://www.osha.gov/pls/imis/sic_manual.display?id=926&tab=description
+46,Pipelines, Except Natural Gas,http://www.osha.gov/pls/imis/sic_manual.display?id=39&tab=group
+461,Pipelines, Except Natural Gas,
+4612,Crude Petroleum Pipelines,http://www.osha.gov/pls/imis/sic_manual.display?id=927&tab=description
+4613,Refined Petroleum Pipelines,http://www.osha.gov/pls/imis/sic_manual.display?id=928&tab=description
+4619,Pipelines, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=929&tab=description
+47,Transportation Services,http://www.osha.gov/pls/imis/sic_manual.display?id=40&tab=group
+472,Arrangement Of Passenger Transportation,
+4724,Travel Agencies,http://www.osha.gov/pls/imis/sic_manual.display?id=930&tab=description
+4725,Tour Operators,http://www.osha.gov/pls/imis/sic_manual.display?id=931&tab=description
+4729,Arrangement of Passenger Transportation, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=932&tab=description
+473,Arrangement Of Transportation Of Freight And Cargo,
+4731,Arrangement of Transportation of Freight and Cargo,http://www.osha.gov/pls/imis/sic_manual.display?id=933&tab=description
+474,Rental Of Railroad Cars,
+4741,Rental of Railroad Cars,http://www.osha.gov/pls/imis/sic_manual.display?id=934&tab=description
+478,Miscellaneous Services Incidental To Transportation,
+4783,Packing and Crating,http://www.osha.gov/pls/imis/sic_manual.display?id=935&tab=description
+4785,Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation,http://www.osha.gov/pls/imis/sic_manual.display?id=936&tab=description
+4789,Transportation Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=937&tab=description
+48,Communications,http://www.osha.gov/pls/imis/sic_manual.display?id=41&tab=group
+481,Telephone Communications,
+4812,Radiotelephone Communications,http://www.osha.gov/pls/imis/sic_manual.display?id=938&tab=description
+4813,Telephone Communications, Except Radiotelephone,http://www.osha.gov/pls/imis/sic_manual.display?id=939&tab=description
+482,Telegraph And Other Message Communications,
+4822,Telegraph and Other Message Communications,http://www.osha.gov/pls/imis/sic_manual.display?id=940&tab=description
+483,Radio And Television Broadcasting Stations,
+4832,Radio Broadcasting Stations,http://www.osha.gov/pls/imis/sic_manual.display?id=941&tab=description
+4833,Television Broadcasting Stations,http://www.osha.gov/pls/imis/sic_manual.display?id=942&tab=description
+484,Cable And Other Pay Television Services,
+4841,Cable and Other Pay Television Services,http://www.osha.gov/pls/imis/sic_manual.display?id=943&tab=description
+489,Communications Services, Not Elsewhere,
+4899,Communications Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=944&tab=description
+49,Electric, Gas, And Sanitary Services,http://www.osha.gov/pls/imis/sic_manual.display?id=42&tab=group
+491,Electric Services,
+4911,Electric Services,http://www.osha.gov/pls/imis/sic_manual.display?id=945&tab=description
+492,Gas Production And Distribution,
+4922,Natural Gas Transmission,http://www.osha.gov/pls/imis/sic_manual.display?id=946&tab=description
+4923,Natural Gas Transmission and Distribution,http://www.osha.gov/pls/imis/sic_manual.display?id=947&tab=description
+4924,Natural Gas Distribution,http://www.osha.gov/pls/imis/sic_manual.display?id=948&tab=description
+4925,Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or,http://www.osha.gov/pls/imis/sic_manual.display?id=949&tab=description
+493,Combination Electric And Gas, And Other Utility,
+4931,Electric and Other Services Combined,http://www.osha.gov/pls/imis/sic_manual.display?id=950&tab=description
+4932,Gas and Other Services Combined,http://www.osha.gov/pls/imis/sic_manual.display?id=951&tab=description
+4939,Combination Utilities, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=952&tab=description
+494,Water Supply,
+4941,Water Supply,http://www.osha.gov/pls/imis/sic_manual.display?id=953&tab=description
+495,Sanitary Services,
+4952,Sewerage Systems,http://www.osha.gov/pls/imis/sic_manual.display?id=954&tab=description
+4953,Refuse Systems,http://www.osha.gov/pls/imis/sic_manual.display?id=955&tab=description
+4959,Sanitary Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=956&tab=description
+496,Steam And Air-conditioning Supply,
+4961,Steam and Air-Conditioning Supply,http://www.osha.gov/pls/imis/sic_manual.display?id=957&tab=description
+497,Irrigation Systems,
+4971,Irrigation Systems,http://www.osha.gov/pls/imis/sic_manual.display?id=958&tab=description
+F,Wholesale Trade,http://www.osha.gov/pls/imis/sic_manual.display?id=6&tab=division
+50,Wholesale Trade-durable Goods,http://www.osha.gov/pls/imis/sic_manual.display?id=43&tab=group
+501,Motor Vehicles And Motor Vehicle Parts And Supplies,
+5012,Automobiles and Other Motor Vehicles,http://www.osha.gov/pls/imis/sic_manual.display?id=959&tab=description
+5013,Motor Vehicle Supplies and New Parts,http://www.osha.gov/pls/imis/sic_manual.display?id=960&tab=description
+5014,Tires and Tubes,http://www.osha.gov/pls/imis/sic_manual.display?id=961&tab=description
+5015,Motor Vehicle Parts, Used,http://www.osha.gov/pls/imis/sic_manual.display?id=962&tab=description
+502,Furniture And Home Furnishings,
+5021,Furniture,http://www.osha.gov/pls/imis/sic_manual.display?id=963&tab=description
+5023,Home furnishings,http://www.osha.gov/pls/imis/sic_manual.display?id=964&tab=description
+503,Lumber And Other Construction Materials,
+5031,Lumber, Plywood, Millwork, and Wood Panels,http://www.osha.gov/pls/imis/sic_manual.display?id=965&tab=description
+5032,Brick, Stone, and Related Construction Materials,http://www.osha.gov/pls/imis/sic_manual.display?id=966&tab=description
+5033,Roofing, Siding, and Insulation Materials,http://www.osha.gov/pls/imis/sic_manual.display?id=967&tab=description
+5039,Construction Materials, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=968&tab=description
+504,Professional And Commercial Equipment And Supplies,
+5043,Photographic Equipment and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=969&tab=description
+5044,Office Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=970&tab=description
+5045,Computers and Computer Peripheral Equipment and Software,http://www.osha.gov/pls/imis/sic_manual.display?id=971&tab=description
+5046,Commercial Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=972&tab=description
+5047,Medical, Dental, and Hospital Equipment and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=973&tab=description
+5048,Ophthalmic Goods,http://www.osha.gov/pls/imis/sic_manual.display?id=974&tab=description
+5049,Professional Equipment and Supplies, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=975&tab=description
+505,Metals And Minerals, Except Petroleum,
+5051,Metals Service Centers and Offices,http://www.osha.gov/pls/imis/sic_manual.display?id=976&tab=description
+5052,Coal and Other Minerals and Ores,http://www.osha.gov/pls/imis/sic_manual.display?id=977&tab=description
+506,Electrical Goods,
+5063,Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials,http://www.osha.gov/pls/imis/sic_manual.display?id=978&tab=description
+5064,Electrical Appliances, Television and Radio Sets,http://www.osha.gov/pls/imis/sic_manual.display?id=979&tab=description
+5065,Electronic Parts and Equipment, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=980&tab=description
+507,Hardware, And Plumbing And Heating Equipment,
+5072,Hardware,http://www.osha.gov/pls/imis/sic_manual.display?id=981&tab=description
+5074,Plumbing and Heating Equipment and Supplies (Hydronics),http://www.osha.gov/pls/imis/sic_manual.display?id=982&tab=description
+5075,Warm Air Heating and Air-Conditioning Equipment and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=983&tab=description
+5078,Refrigeration Equipment and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=984&tab=description
+508,Machinery, Equipment, And Supplies,
+5082,Construction and Mining (Except Petroleum) Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=985&tab=description
+5083,Farm and Garden Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=986&tab=description
+5084,Industrial Machinery and Equipment,http://www.osha.gov/pls/imis/sic_manual.display?id=987&tab=description
+5085,Industrial Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=988&tab=description
+5087,Service Establishment Equipment and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=989&tab=description
+5088,Transportation Equipment and Supplies, Except Motor Vehicles,http://www.osha.gov/pls/imis/sic_manual.display?id=990&tab=description
+509,Miscellaneous Durable Goods,
+5091,Sporting and Recreational Goods and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=991&tab=description
+5092,Toys and Hobby Goods and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=992&tab=description
+5093,Scrap and Waste Materials,http://www.osha.gov/pls/imis/sic_manual.display?id=993&tab=description
+5094,Jewelry, Watches, Precious Stones, and Precious Metals,http://www.osha.gov/pls/imis/sic_manual.display?id=994&tab=description
+5099,Durable Goods, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=995&tab=description
+51,Wholesale Trade-non-durable Goods,http://www.osha.gov/pls/imis/sic_manual.display?id=44&tab=group
+511,Paper And Paper Products,
+5111,Printing and Writing Paper,http://www.osha.gov/pls/imis/sic_manual.display?id=996&tab=description
+5112,Stationery and Office Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=997&tab=description
+5113,Industrial and Personal Service Paper,http://www.osha.gov/pls/imis/sic_manual.display?id=998&tab=description
+512,Drugs, Drug Proprietaries, And Druggists&#39; Sundries,
+5122,Drugs, Drug Proprietaries, and Druggists' Sundries,http://www.osha.gov/pls/imis/sic_manual.display?id=694&tab=description
+513,Apparel, Piece Goods, And Notions,
+5131,Piece Goods, Notions, and Other Dry Good,http://www.osha.gov/pls/imis/sic_manual.display?id=695&tab=description
+5136,Men's and Boy's Clothing and Furnishings,http://www.osha.gov/pls/imis/sic_manual.display?id=696&tab=description
+5137,Women's, Children's, and Infants' Clothing and Accessories,http://www.osha.gov/pls/imis/sic_manual.display?id=697&tab=description
+5139,Footwear,http://www.osha.gov/pls/imis/sic_manual.display?id=698&tab=description
+514,Groceries And Related Products,
+5141,Groceries, General Line,http://www.osha.gov/pls/imis/sic_manual.display?id=699&tab=description
+5142,Packaged Frozen Foods,http://www.osha.gov/pls/imis/sic_manual.display?id=700&tab=description
+5143,Dairy Products, Except Dried or Canned,http://www.osha.gov/pls/imis/sic_manual.display?id=296&tab=description
+5144,Poultry and Poultry Products,http://www.osha.gov/pls/imis/sic_manual.display?id=297&tab=description
+5145,Confectionery,http://www.osha.gov/pls/imis/sic_manual.display?id=298&tab=description
+5146,Fish and Seafoods,http://www.osha.gov/pls/imis/sic_manual.display?id=299&tab=description
+5147,Meats and Meat Products,http://www.osha.gov/pls/imis/sic_manual.display?id=300&tab=description
+5148,Fresh Fruits and Vegetables,http://www.osha.gov/pls/imis/sic_manual.display?id=301&tab=description
+5149,Groceries and Related Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=302&tab=description
+515,Farm-product Raw Materials,
+5153,Grain and Field Beans,http://www.osha.gov/pls/imis/sic_manual.display?id=303&tab=description
+5154,Livestock,http://www.osha.gov/pls/imis/sic_manual.display?id=1&tab=description
+5159,Farm-Product Raw Materials, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=2&tab=description
+516,Chemicals And Allied Products,
+5162,Plastics Materials and Basic Forms and Shapes,http://www.osha.gov/pls/imis/sic_manual.display?id=3&tab=description
+5169,Chemicals and Allied Products, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=4&tab=description
+517,Petroleum And Petroleum Products,
+5171,Petroleum Bulk stations and Terminals,http://www.osha.gov/pls/imis/sic_manual.display?id=5&tab=description
+5172,Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals,http://www.osha.gov/pls/imis/sic_manual.display?id=6&tab=description
+518,Beer, Wine, And Distilled Alcoholic Beverages,
+5181,Beer and Ale,http://www.osha.gov/pls/imis/sic_manual.display?id=7&tab=description
+5182,Wine and Distilled Alcoholic Beverages,http://www.osha.gov/pls/imis/sic_manual.display?id=8&tab=description
+519,Miscellaneous Non-durable Goods,
+5191,Farm Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=9&tab=description
+5192,Books, Periodicals, and Newspapers,http://www.osha.gov/pls/imis/sic_manual.display?id=10&tab=description
+5193,Flowers, Nursery Stock, and Florists' Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=243&tab=description
+5194,Tobacco and Tobacco Products,http://www.osha.gov/pls/imis/sic_manual.display?id=11&tab=description
+5198,Paints, Varnishes, and Supplies,http://www.osha.gov/pls/imis/sic_manual.display?id=12&tab=description
+5199,Nondurable Goods, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=244&tab=description
+G,Retail Trade,http://www.osha.gov/pls/imis/sic_manual.display?id=7&tab=division
+52,Building Materials, Hardware, Garden Supply, And Mobile Home Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=45&tab=group
+521,Lumber And Other Building Materials Dealers,
+5211,Lumber and Other Building Materials Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=13&tab=description
+523,Paint, Glass And Wallpaper Stores,
+5231,Paint, Glass, and Wallpaper Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=14&tab=description
+525,Hardware Stores,
+5251,Hardware Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=245&tab=description
+526,Retail Nurseries, Lawn And Garden Supply Stores,
+5261,Retail Nurseries, Lawn and Garden Supply Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=15&tab=description
+527,Mobile Home Dealers,
+5271,Mobile Home Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=16&tab=description
+53,General Merchandise Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=46&tab=group
+531,Department Stores,
+5311,Department Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=246&tab=description
+533,Variety Stores,
+5331,Variety Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=17&tab=description
+539,Miscellaneous General Merchandise Stores,
+5399,Miscellaneous General Merchandise Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=18&tab=description
+54,Food Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=47&tab=group
+541,Grocery Stores,
+5411,Grocery Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=19&tab=description
+542,Meat And Fish (seafood) Markets, Including,
+5421,Meat and Fish (Seafood) Markets, Including Freezer Provisioners,http://www.osha.gov/pls/imis/sic_manual.display?id=20&tab=description
+543,Fruit And Vegetable Markets,
+5431,Fruit and Vegetable Markets,http://www.osha.gov/pls/imis/sic_manual.display?id=21&tab=description
+544,Candy, Nut, And Confectionery Stores,
+5441,Candy, Nut, and Confectionery Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=22&tab=description
+545,Dairy Products Stores,
+5451,Dairy Products Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=23&tab=description
+546,Retail Bakeries,
+5461,Retail Bakeries,http://www.osha.gov/pls/imis/sic_manual.display?id=24&tab=description
+549,Miscellaneous Food Stores,
+5499,Miscellaneous Food Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=25&tab=description
+55,Automotive Dealers And Gasoline Service Stations,http://www.osha.gov/pls/imis/sic_manual.display?id=48&tab=group
+551,Motor Vehicle Dealers (new And Used),
+5511,Motor Vehicle Dealers (New and Used),http://www.osha.gov/pls/imis/sic_manual.display?id=26&tab=description
+552,Motor Vehicle Dealers (used Only),
+5521,Motor Vehicle Dealers (Used Only),http://www.osha.gov/pls/imis/sic_manual.display?id=27&tab=description
+553,Auto And Home Supply Stores,
+5531,Auto and Home Supply Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=28&tab=description
+554,Gasoline Service Stations,
+5541,Gasoline Service Stations,http://www.osha.gov/pls/imis/sic_manual.display?id=29&tab=description
+555,Boat Dealers,
+5551,Boat Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=30&tab=description
+556,Recreational Vehicle Dealers,
+5561,Recreational Vehicle Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=31&tab=description
+557,Motorcycle Dealers,
+5571,Motorcycle Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=32&tab=description
+559,Automotive Dealers, Not Elsewhere Classified,
+5599,Automotive Dealers, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=33&tab=description
+56,Apparel And Accessory Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=49&tab=group
+561,Men&#39;s And Boys&#39; Clothing And Accessory Stores,
+5611,Men's and Boys' Clothing and Accessory Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=247&tab=description
+562,Women&#39;s Clothing Stores,
+5621,Women's Clothing Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=248&tab=description
+563,Women&#39;s Accessory And Specialty Stores,
+5632,Women's Accessory and Specialty Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=249&tab=description
+564,Children&#39;s And Infants&#39; Wear Stores,
+5641,Children's and Infants' Wear Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=250&tab=description
+565,Family Clothing Stores,
+5651,Family Clothing Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=34&tab=description
+566,Shoe Stores,
+5661,Shoe Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=251&tab=description
+569,Miscellaneous Apparel And Accessory Stores,
+5699,Miscellaneous Apparel and Accessory Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=252&tab=description
+57,Home Furniture, Furnishings, And Equipment Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=50&tab=group
+571,Home Furniture And Furnishings Stores,
+5712,Furniture Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=35&tab=description
+5713,Floor Covering Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=36&tab=description
+5714,Drapery, Curtain, and Upholstery Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=37&tab=description
+5719,Miscellaneous home furnishings Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=38&tab=description
+572,Household Appliance Stores,
+5722,Household Appliance Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=39&tab=description
+573,Radio, Television, Consumer Electronics, And Music Stores,
+5731,Radio, Television, and Consumer Electronics Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=40&tab=description
+5734,Computer and Computer Software Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=41&tab=description
+5735,Record and Prerecorded Tape Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=42&tab=description
+5736,Musical Instrument Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=43&tab=description
+58,Eating And Drinking Places,http://www.osha.gov/pls/imis/sic_manual.display?id=51&tab=group
+581,Eating And Drinking Places,
+5812,Eating Places,http://www.osha.gov/pls/imis/sic_manual.display?id=44&tab=description
+5813,Drinking Places (alcoholic Beverages),http://www.osha.gov/pls/imis/sic_manual.display?id=45&tab=description
+59,Miscellaneous Retail,http://www.osha.gov/pls/imis/sic_manual.display?id=52&tab=group
+591,Drug Stores And Proprietary Stores,
+5912,Drug Stores and Proprietary Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=46&tab=description
+592,Liquor Stores,
+5921,Liquor Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=47&tab=description
+593,Used Merchandise Stores,
+5932,Used Merchandise Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=48&tab=description
+594,Miscellaneous Shopping Goods Stores,
+5941,Sporting Goods Stores and Bicycle Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=253&tab=description
+5942,Book Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=49&tab=description
+5943,Stationery Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=50&tab=description
+5944,Jewelry Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=51&tab=description
+5945,Hobby, Toy, and Game Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=254&tab=description
+5946,Camera and Photographic Supply Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=52&tab=description
+5947,Gift, Novelty, and Souvenir Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=53&tab=description
+5948,Luggage and Leather Goods Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=54&tab=description
+5949,Sewing, Needlework, and Piece Goods Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=55&tab=description
+596,Nonstore Retailers,
+5961,Catalog and Mail-Order Houses,http://www.osha.gov/pls/imis/sic_manual.display?id=56&tab=description
+5962,Automatic Merchandising Machine Operators,http://www.osha.gov/pls/imis/sic_manual.display?id=57&tab=description
+5963,Direct Selling Establishments,http://www.osha.gov/pls/imis/sic_manual.display?id=58&tab=description
+598,Fuel Dealers,
+5983,Fuel Oil Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=59&tab=description
+5984,Liquefied Petroleum Gas (Bottled Gas) Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=255&tab=description
+5989,Fuel Dealers, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=60&tab=description
+599,Retail Stores, Not Elsewhere Classified,
+5992,Florists,http://www.osha.gov/pls/imis/sic_manual.display?id=61&tab=description
+5993,Tobacco Stores and Stands,http://www.osha.gov/pls/imis/sic_manual.display?id=256&tab=description
+5994,News Dealers and Newsstands,http://www.osha.gov/pls/imis/sic_manual.display?id=62&tab=description
+5995,Optical Goods Stores,http://www.osha.gov/pls/imis/sic_manual.display?id=63&tab=description
+5999,Miscellaneous Retail Stores, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=257&tab=description
+H,Finance, Insurance, And Real Estate,http://www.osha.gov/pls/imis/sic_manual.display?id=8&tab=division
+60,Depository Institutions,http://www.osha.gov/pls/imis/sic_manual.display?id=53&tab=group
+601,Central Reserve Depository Institutions,
+6011,Federal Reserve Banks,http://www.osha.gov/pls/imis/sic_manual.display?id=64&tab=description
+6019,Central Reserve Depository Institutions, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=65&tab=description
+602,Commercial Banks,
+6021,National Commercial Banks,http://www.osha.gov/pls/imis/sic_manual.display?id=66&tab=description
+6022,State Commercial Banks,http://www.osha.gov/pls/imis/sic_manual.display?id=67&tab=description
+6029,Commercial Banks, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=68&tab=description
+603,Savings Institutions,
+6035,Savings Institutions, Federally Chartered,http://www.osha.gov/pls/imis/sic_manual.display?id=69&tab=description
+6036,Savings Institutions, Not Federally Chartered,http://www.osha.gov/pls/imis/sic_manual.display?id=70&tab=description
+606,Credit Unions,
+6061,Credit Unions, Federally Chartered,http://www.osha.gov/pls/imis/sic_manual.display?id=71&tab=description
+6062,Credit Unions, Not Federally Chartered,http://www.osha.gov/pls/imis/sic_manual.display?id=72&tab=description
+608,Foreign Banking And Branches And Agencies Of,
+6081,Branches and Agencies of Foreign Banks,http://www.osha.gov/pls/imis/sic_manual.display?id=73&tab=description
+6082,Foreign Trade and International Banking Institutions,http://www.osha.gov/pls/imis/sic_manual.display?id=74&tab=description
+609,Functions Related To Depository Banking,
+6091,Non-deposit Trust Facilities,,http://www.osha.gov/pls/imis/sic_manual.display?id=75&tab=description
+6099,Functions Related to Depository Banking, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=258&tab=description
+61,Non-depository Credit Institutions,http://www.osha.gov/pls/imis/sic_manual.display?id=54&tab=group
+611,Federal And Federally-sponsored Credit Agencies,
+6111,Federal and Federally-Sponsored Credit Agencies,http://www.osha.gov/pls/imis/sic_manual.display?id=76&tab=description
+614,Personal Credit Institutions,
+6141,Personal Credit Institutions,http://www.osha.gov/pls/imis/sic_manual.display?id=77&tab=description
+615,Business Credit Institutions,
+6153,Short-Term Business Credit Institutions, Except Agricultural,http://www.osha.gov/pls/imis/sic_manual.display?id=259&tab=description
+6159,Miscellaneous business Credit Institutions,http://www.osha.gov/pls/imis/sic_manual.display?id=78&tab=description
+616,Mortgage Bankers And Brokers,
+6162,Mortgage Bankers and Loan Correspondents,http://www.osha.gov/pls/imis/sic_manual.display?id=79&tab=description
+6163,Loan Brokers,http://www.osha.gov/pls/imis/sic_manual.display?id=80&tab=description
+62,Security And Commodity Brokers, Dealers, Exchanges, And Services,http://www.osha.gov/pls/imis/sic_manual.display?id=55&tab=group
+621,Security Brokers, Dealers, And Flotation,
+6211,Security Brokers, Dealers, and Flotation Companies,http://www.osha.gov/pls/imis/sic_manual.display?id=81&tab=description
+622,Commodity Contracts Brokers And Dealers,
+6221,Commodity Contracts Brokers and Dealers,http://www.osha.gov/pls/imis/sic_manual.display?id=82&tab=description
+623,Security And Commodity Exchanges,
+6231,Security and Commodity Exchanges,http://www.osha.gov/pls/imis/sic_manual.display?id=83&tab=description
+628,Services Allied With The Exchange Of Securities,
+6282,Investment Advice,http://www.osha.gov/pls/imis/sic_manual.display?id=84&tab=description
+6289,Services Allied With the Exchange of Securities or Commodities, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=85&tab=description
+63,Insurance Carriers,http://www.osha.gov/pls/imis/sic_manual.display?id=56&tab=group
+631,Life Insurance,
+6311,Life Insurance,http://www.osha.gov/pls/imis/sic_manual.display?id=86&tab=description
+632,Accident And Health Insurance And Medical,
+6321,Accident and Health Insurance,http://www.osha.gov/pls/imis/sic_manual.display?id=87&tab=description
+6324,Hospital and Medical Service Plans,http://www.osha.gov/pls/imis/sic_manual.display?id=88&tab=description
+633,Fire, Marine, And Casualty Insurance,
+6331,Fire, Marine, and Casualty Insurance,http://www.osha.gov/pls/imis/sic_manual.display?id=260&tab=description
+635,Surety Insurance,
+6351,Surety Insurance,http://www.osha.gov/pls/imis/sic_manual.display?id=89&tab=description
+636,Title Insurance,
+6361,Title Insurance,http://www.osha.gov/pls/imis/sic_manual.display?id=90&tab=description
+637,Pension, Health, And Welfare Funds,
+6371,Pension, Health, and Welfare Funds,http://www.osha.gov/pls/imis/sic_manual.display?id=91&tab=description
+639,Insurance Carriers, Not Elsewhere Classified,
+6399,Insurance Carriers, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=92&tab=description
+64,Insurance Agents, Brokers, And Service,http://www.osha.gov/pls/imis/sic_manual.display?id=57&tab=group
+641,Insurance Agents, Brokers, And Service,
+6411,Insurance Agents, Brokers, and Service,http://www.osha.gov/pls/imis/sic_manual.display?id=261&tab=description
+65,Real Estate,http://www.osha.gov/pls/imis/sic_manual.display?id=58&tab=group
+651,Real Estate Operators (except Developers) And Lessors,
+6512,Operators of Nonresidential Buildings,http://www.osha.gov/pls/imis/sic_manual.display?id=93&tab=description
+6513,Operators of Apartment Buildings,http://www.osha.gov/pls/imis/sic_manual.display?id=94&tab=description
+6514,Operators of Dwellings Other Than Apartment Buildings,http://www.osha.gov/pls/imis/sic_manual.display?id=95&tab=description
+6515,Operators of Residential Mobile Home Sites,http://www.osha.gov/pls/imis/sic_manual.display?id=96&tab=description
+6517,Lessors of Railroad Property,http://www.osha.gov/pls/imis/sic_manual.display?id=97&tab=description
+6519,Lessors of Real Property, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=98&tab=description
+653,Real Estate Agents And Managers,
+6531,Real Estate Agents and Managers,http://www.osha.gov/pls/imis/sic_manual.display?id=99&tab=description
+654,Title Abstract Offices,
+6541,Title Abstract Offices,http://www.osha.gov/pls/imis/sic_manual.display?id=100&tab=description
+655,Land Subdividers And Developers,
+6552,Land Subdividers and Developers, Except Cemeteries,http://www.osha.gov/pls/imis/sic_manual.display?id=101&tab=description
+6553,Cemetery Subdividers and Developers,http://www.osha.gov/pls/imis/sic_manual.display?id=102&tab=description
+67,Holding And Other Investment Offices,http://www.osha.gov/pls/imis/sic_manual.display?id=59&tab=group
+671,Holding Offices,
+6712,Offices of Bank Holding Companies,http://www.osha.gov/pls/imis/sic_manual.display?id=103&tab=description
+6719,Offices of Holding Companies, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=104&tab=description
+672,Investment Offices,
+6722,Management Investment Offices, Open-End,http://www.osha.gov/pls/imis/sic_manual.display?id=105&tab=description
+6726,Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices,http://www.osha.gov/pls/imis/sic_manual.display?id=262&tab=description
+673,Trusts,
+6732,Educational, Religious, and Charitable Trusts,http://www.osha.gov/pls/imis/sic_manual.display?id=106&tab=description
+6733,Trusts, Except Educational, Religious, and Charitable,http://www.osha.gov/pls/imis/sic_manual.display?id=107&tab=description
+679,Miscellaneous Investing,
+6792,Oil Royalty Traders,http://www.osha.gov/pls/imis/sic_manual.display?id=108&tab=description
+6794,Patent Owners and Lessors,http://www.osha.gov/pls/imis/sic_manual.display?id=109&tab=description
+6798,Real Estate Investment Trusts,http://www.osha.gov/pls/imis/sic_manual.display?id=1000&tab=description
+6799,Investors, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=110&tab=description
+I,Services,http://www.osha.gov/pls/imis/sic_manual.display?id=9&tab=division
+70,Hotels, Rooming Houses, Camps, And Other Lodging Places,http://www.osha.gov/pls/imis/sic_manual.display?id=60&tab=group
+701,Hotels And Motels,
+7011,Hotels and Motels,http://www.osha.gov/pls/imis/sic_manual.display?id=111&tab=description
+702,Rooming And Boarding Houses,
+7021,Rooming and Boarding Houses,http://www.osha.gov/pls/imis/sic_manual.display?id=112&tab=description
+703,Camps And Recreational Vehicle Parks,
+7032,Sporting and Recreational Camps,http://www.osha.gov/pls/imis/sic_manual.display?id=263&tab=description
+7033,Recreational Vehicle Parks and Campsites,http://www.osha.gov/pls/imis/sic_manual.display?id=113&tab=description
+704,Organization Hotels And Lodging Houses, On,
+7041,Organization Hotels and Lodging Houses, on Membership Basis,http://www.osha.gov/pls/imis/sic_manual.display?id=114&tab=description
+72,Personal Services,http://www.osha.gov/pls/imis/sic_manual.display?id=61&tab=group
+721,Laundry, Cleaning, And Garment Services,
+7211,Power Laundries, Family and Commercial,http://www.osha.gov/pls/imis/sic_manual.display?id=115&tab=description
+7212,Garment Pressing, and Agents for Laundries and Drycleaners,http://www.osha.gov/pls/imis/sic_manual.display?id=116&tab=description
+7213,Linen Supply,http://www.osha.gov/pls/imis/sic_manual.display?id=117&tab=description
+7215,Coin-Operated Laundries and Drycleaning,http://www.osha.gov/pls/imis/sic_manual.display?id=118&tab=description
+7216,Drycleaning Plants, Except Rug Cleaning,http://www.osha.gov/pls/imis/sic_manual.display?id=119&tab=description
+7217,Carpet and Upholstery Cleaning,http://www.osha.gov/pls/imis/sic_manual.display?id=264&tab=description
+7218,Industrial Launderers,http://www.osha.gov/pls/imis/sic_manual.display?id=265&tab=description
+7219,Laundry and Garment Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=120&tab=description
+722,Photographic Studios, Portrait,
+7221,Photographic Studios, Portrait,http://www.osha.gov/pls/imis/sic_manual.display?id=121&tab=description
+723,Beauty Shops,
+7231,Beauty Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=122&tab=description
+724,Barber Shops,
+7241,Barber Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=266&tab=description
+725,Shoe Repair Shops And Shoeshine Parlors,
+7251,Shoe Repair Shops and Shoeshine Parlors,http://www.osha.gov/pls/imis/sic_manual.display?id=123&tab=description
+726,Funeral Service And Crematories,
+7261,Funeral Service and Crematories,http://www.osha.gov/pls/imis/sic_manual.display?id=124&tab=description
+729,Miscellaneous Personal Services,
+7291,Tax Return Preparation Services,http://www.osha.gov/pls/imis/sic_manual.display?id=125&tab=description
+7299,Miscellaneous Personal Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=267&tab=description
+73,Business Services,http://www.osha.gov/pls/imis/sic_manual.display?id=62&tab=group
+731,Advertising,
+7311,Advertising Agencies,http://www.osha.gov/pls/imis/sic_manual.display?id=126&tab=description
+7312,Outdoor Advertising Services,http://www.osha.gov/pls/imis/sic_manual.display?id=127&tab=description
+7313,Radio, Television, and Publishers' Advertising Representatives,http://www.osha.gov/pls/imis/sic_manual.display?id=268&tab=description
+7319,Advertising, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=136&tab=description
+732,Consumer Credit Reporting Agencies, Mercantile,
+7322,Adjustment and Collection Services,http://www.osha.gov/pls/imis/sic_manual.display?id=137&tab=description
+7323,Credit Reporting Services,http://www.osha.gov/pls/imis/sic_manual.display?id=138&tab=description
+733,Mailing, Reproduction, Commercial Art And Photography, and Stenographic Services,
+7331,Direct Mail Advertising Services,http://www.osha.gov/pls/imis/sic_manual.display?id=139&tab=description
+7334,Photocopying and Duplicating Services,http://www.osha.gov/pls/imis/sic_manual.display?id=140&tab=description
+7335,Commercial Photography,http://www.osha.gov/pls/imis/sic_manual.display?id=141&tab=description
+7336,Commercial Art and Graphic Design,http://www.osha.gov/pls/imis/sic_manual.display?id=142&tab=description
+7338,Secretarial and Court Reporting Services,http://www.osha.gov/pls/imis/sic_manual.display?id=143&tab=description
+734,Services To Dwellings And Other Buildings,
+7342,Disinfecting and Pest Control Services,http://www.osha.gov/pls/imis/sic_manual.display?id=144&tab=description
+7349,Building Cleaning and Maintenance Services, Not Elsewhere,http://www.osha.gov/pls/imis/sic_manual.display?id=269&tab=description
+735,Miscellaneous Equipment Rental And Leasing,
+7352,Medical Equipment Rental and Leasing,http://www.osha.gov/pls/imis/sic_manual.display?id=145&tab=description
+7353,Heavy Construction Equipment Rental and Leasing,http://www.osha.gov/pls/imis/sic_manual.display?id=146&tab=description
+7359,Equipment Rental and Leasing, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=270&tab=description
+736,Personnel Supply Services,
+7361,Employment Agencies,http://www.osha.gov/pls/imis/sic_manual.display?id=271&tab=description
+7363,Help Supply Services,http://www.osha.gov/pls/imis/sic_manual.display?id=147&tab=description
+737,Computer Programming, Data Processing, And Other Computer Related Services,
+7371,Computer Programming Services,http://www.osha.gov/pls/imis/sic_manual.display?id=148&tab=description
+7372,Prepackaged Software,http://www.osha.gov/pls/imis/sic_manual.display?id=149&tab=description
+7373,Computer Integrated Systems Design,http://www.osha.gov/pls/imis/sic_manual.display?id=150&tab=description
+7374,Computer Processing and Data Preparation and Processing Services,http://www.osha.gov/pls/imis/sic_manual.display?id=151&tab=description
+7375,Information Retrieval Services,http://www.osha.gov/pls/imis/sic_manual.display?id=152&tab=description
+7376,Computer Facilities Management Services,http://www.osha.gov/pls/imis/sic_manual.display?id=153&tab=description
+7377,Computer Rental and Leasing,http://www.osha.gov/pls/imis/sic_manual.display?id=272&tab=description
+7378,Computer Maintenance and Repair,http://www.osha.gov/pls/imis/sic_manual.display?id=154&tab=description
+7379,Computer Related Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=155&tab=description
+738,Miscellaneous Business Services,
+7381,Detective, Guard, and Armored Car Services,http://www.osha.gov/pls/imis/sic_manual.display?id=156&tab=description
+7382,Security Systems Services,http://www.osha.gov/pls/imis/sic_manual.display?id=157&tab=description
+7383,News Syndicates,http://www.osha.gov/pls/imis/sic_manual.display?id=158&tab=description
+7384,Photofinishing Laboratories,http://www.osha.gov/pls/imis/sic_manual.display?id=159&tab=description
+7389,Business Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1013&tab=description
+75,Automotive Repair, Services, And Parking,http://www.osha.gov/pls/imis/sic_manual.display?id=63&tab=group
+751,Automotive Rental And Leasing, Without Drivers,
+7513,Truck Rental and Leasing, Without Drivers,http://www.osha.gov/pls/imis/sic_manual.display?id=128&tab=description
+7514,Passenger Car Rental,http://www.osha.gov/pls/imis/sic_manual.display?id=129&tab=description
+7515,Passenger Car Leasing,http://www.osha.gov/pls/imis/sic_manual.display?id=130&tab=description
+7519,Utility Trailer and Recreational Vehicle Rental,http://www.osha.gov/pls/imis/sic_manual.display?id=131&tab=description
+752,Automobile Parking,
+7521,Automobile Parking,http://www.osha.gov/pls/imis/sic_manual.display?id=132&tab=description
+753,Automotive Repair Shops,
+7532,Top, Body, and Upholstery Repair Shops and Paint Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=133&tab=description
+7533,Automotive Exhaust System Repair Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=134&tab=description
+7534,Tire Retreading and Repair Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=274&tab=description
+7536,Automotive Glass Replacement Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=135&tab=description
+7537,Automotive Transmission Repair Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=160&tab=description
+7538,General Automotive Repair Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=161&tab=description
+7539,Automotive Repair Shops, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=162&tab=description
+754,Automotive Services, Except Repair,
+7542,Carwashes,http://www.osha.gov/pls/imis/sic_manual.display?id=163&tab=description
+7549,Automotive Services, Except Repair and Carwashes,http://www.osha.gov/pls/imis/sic_manual.display?id=164&tab=description
+76,Miscellaneous Repair Services,http://www.osha.gov/pls/imis/sic_manual.display?id=64&tab=group
+762,Electrical Repair Shops,
+7622,Radio and Television Repair Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=275&tab=description
+7623,Refrigeration and Air-Conditioning Service and Repair Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=165&tab=description
+7629,Electrical and Electronic Repair Shops, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=166&tab=description
+763,Watch, Clock, And Jewelry Repair,
+7631,Watch, Clock, and Jewelry Repair,http://www.osha.gov/pls/imis/sic_manual.display?id=167&tab=description
+764,Reupholstery And Furniture Repair,
+7641,Reupholstery and Furniture Repair,http://www.osha.gov/pls/imis/sic_manual.display?id=168&tab=description
+769,Miscellaneous Repair Shops And Related Services,
+7692,Welding Repair,http://www.osha.gov/pls/imis/sic_manual.display?id=169&tab=description
+7694,Armature Rewinding Shops,http://www.osha.gov/pls/imis/sic_manual.display?id=276&tab=description
+7699,Repair Shops and Related Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=170&tab=description
+78,Motion Pictures,http://www.osha.gov/pls/imis/sic_manual.display?id=65&tab=group
+781,Motion Picture Production And Allied Services,
+7812,Motion Picture and Video Tape Production,http://www.osha.gov/pls/imis/sic_manual.display?id=171&tab=description
+7819,Services Allied to Motion Picture Production,http://www.osha.gov/pls/imis/sic_manual.display?id=172&tab=description
+782,Motion Picture Distribution And Allied Services,
+7822,Motion Picture and Video Tape Distribution,http://www.osha.gov/pls/imis/sic_manual.display?id=173&tab=description
+7829,Services Allied to Motion Picture Distribution,http://www.osha.gov/pls/imis/sic_manual.display?id=174&tab=description
+783,Motion Picture Theaters,
+7832,Motion Picture Theaters, Except Drive-In,http://www.osha.gov/pls/imis/sic_manual.display?id=175&tab=description
+7833,Drive-In Motion Picture Theaters,http://www.osha.gov/pls/imis/sic_manual.display?id=176&tab=description
+784,Video Tape Rental,
+7841,Video Tape Rental,http://www.osha.gov/pls/imis/sic_manual.display?id=177&tab=description
+79,Amusement And Recreation Services,http://www.osha.gov/pls/imis/sic_manual.display?id=66&tab=group
+791,Dance Studios, Schools, And Halls,
+7911,Dance Studios, Schools, and Halls,http://www.osha.gov/pls/imis/sic_manual.display?id=277&tab=description
+792,Theatrical Producers (except Motion Picture),,
+7922,Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services,http://www.osha.gov/pls/imis/sic_manual.display?id=178&tab=description
+7929,Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups,http://www.osha.gov/pls/imis/sic_manual.display?id=179&tab=description
+793,Bowling Centers,
+7933,Bowling Centers,http://www.osha.gov/pls/imis/sic_manual.display?id=180&tab=description
+794,Commercial Sports,
+7941,Professional Sports Clubs and Promoters,http://www.osha.gov/pls/imis/sic_manual.display?id=181&tab=description
+7948,Racing, Including Track Operation,http://www.osha.gov/pls/imis/sic_manual.display?id=182&tab=description
+799,Miscellaneous Amusement And Recreation,
+7991,Physical Fitness Facilities,http://www.osha.gov/pls/imis/sic_manual.display?id=183&tab=description
+7992,Public Golf Courses,http://www.osha.gov/pls/imis/sic_manual.display?id=184&tab=description
+7993,Coin-Operated Amusement Devices,http://www.osha.gov/pls/imis/sic_manual.display?id=185&tab=description
+7996,Amusement Parks,http://www.osha.gov/pls/imis/sic_manual.display?id=186&tab=description
+7997,Membership Sports and Recreation Clubs,http://www.osha.gov/pls/imis/sic_manual.display?id=187&tab=description
+7999,Amusement and Recreation Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=188&tab=description
+80,Health Services,http://www.osha.gov/pls/imis/sic_manual.display?id=67&tab=group
+801,Offices And Clinics Of Doctors Of Medicine,
+8011,Offices and Clinics of Doctors of Medicine,http://www.osha.gov/pls/imis/sic_manual.display?id=189&tab=description
+802,Offices And Clinics Of Dentists,
+8021,Offices and Clinics of Dentists,http://www.osha.gov/pls/imis/sic_manual.display?id=190&tab=description
+803,Offices And Clinics Of Doctors Of Osteopathy,
+8031,Offices and Clinics of Doctors of Osteopathy,http://www.osha.gov/pls/imis/sic_manual.display?id=191&tab=description
+804,Offices And Clinics Of Other Health Practitioners,
+8041,Offices and Clinics of Chiropractors,http://www.osha.gov/pls/imis/sic_manual.display?id=192&tab=description
+8042,Offices and Clinics of Optometrists,http://www.osha.gov/pls/imis/sic_manual.display?id=193&tab=description
+8043,Offices and Clinics of Podiatrists,http://www.osha.gov/pls/imis/sic_manual.display?id=194&tab=description
+8049,Offices and Clinics of Health Practitioners, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=278&tab=description
+805,Nursing And Personal Care Facilities,
+8051,Skilled Nursing Care Facilities,http://www.osha.gov/pls/imis/sic_manual.display?id=195&tab=description
+8052,Intermediate Care Facilities,http://www.osha.gov/pls/imis/sic_manual.display?id=196&tab=description
+8059,Nursing and Personal Care Facilities, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=279&tab=description
+806,Hospitals,
+8062,General Medical and Surgical Hospitals,http://www.osha.gov/pls/imis/sic_manual.display?id=197&tab=description
+8063,Psychiatric Hospitals,http://www.osha.gov/pls/imis/sic_manual.display?id=198&tab=description
+8069,Specialty Hospitals, Except Psychiatric,http://www.osha.gov/pls/imis/sic_manual.display?id=280&tab=description
+807,Medical And Dental Laboratories,
+8071,Medical Laboratories,http://www.osha.gov/pls/imis/sic_manual.display?id=199&tab=description
+8072,Dental Laboratories,http://www.osha.gov/pls/imis/sic_manual.display?id=200&tab=description
+808,Home Health Care Services,
+8082,Home Health Care Services,http://www.osha.gov/pls/imis/sic_manual.display?id=281&tab=description
+809,Miscellaneous Health And Allied Services, Not,
+8092,Kidney Dialysis Centers,http://www.osha.gov/pls/imis/sic_manual.display?id=201&tab=description
+8093,Specialty Outpatient Facilities, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=202&tab=description
+8099,Health and Allied Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=203&tab=description
+81,Legal Services,http://www.osha.gov/pls/imis/sic_manual.display?id=68&tab=group
+811,Legal Services,
+8111,Legal Services,http://www.osha.gov/pls/imis/sic_manual.display?id=282&tab=description
+82,Educational Services,http://www.osha.gov/pls/imis/sic_manual.display?id=69&tab=group
+821,Elementary And Secondary Schools,
+8211,Elementary and Secondary Schools,http://www.osha.gov/pls/imis/sic_manual.display?id=204&tab=description
+822,Colleges, Universities, Professional Schools, And,
+8221,Colleges, Universities, and Professional Schools,http://www.osha.gov/pls/imis/sic_manual.display?id=205&tab=description
+8222,Junior Colleges and Technical Institutes,http://www.osha.gov/pls/imis/sic_manual.display?id=206&tab=description
+823,Libraries,
+8231,Libraries,http://www.osha.gov/pls/imis/sic_manual.display?id=207&tab=description
+824,Vocational Schools,
+8243,Data Processing Schools,http://www.osha.gov/pls/imis/sic_manual.display?id=208&tab=description
+8244,Business and Secretarial Schools,http://www.osha.gov/pls/imis/sic_manual.display?id=209&tab=description
+8249,Vocational Schools, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=210&tab=description
+829,Schools And Educational Services, Not Elsewhere,
+8299,Schools and Educational Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=211&tab=description
+83,Social Services,http://www.osha.gov/pls/imis/sic_manual.display?id=70&tab=group
+832,Individual And Family Social Services,
+8322,Individual and Family Social Services,http://www.osha.gov/pls/imis/sic_manual.display?id=283&tab=description
+833,Job Training And Vocational Rehabilitation,
+8331,Job Training and Vocational Rehabilitation Services,http://www.osha.gov/pls/imis/sic_manual.display?id=212&tab=description
+835,Child Day Care Services,
+8351,Child Day Care Services,http://www.osha.gov/pls/imis/sic_manual.display?id=213&tab=description
+836,Residential Care,
+8361,Residential Care,http://www.osha.gov/pls/imis/sic_manual.display?id=284&tab=description
+839,Social Services, Not Elsewhere Classified,
+8399,Social Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=214&tab=description
+84,Museums, Art Galleries, And Botanical And Zoological Gardens,http://www.osha.gov/pls/imis/sic_manual.display?id=71&tab=group
+841,Museums And Art Galleries,
+8412,Museums and Art Galleries,http://www.osha.gov/pls/imis/sic_manual.display?id=215&tab=description
+842,Arboreta And Botanical Or Zoological Gardens,
+8422,Arboreta and Botanical or Zoological Gardens,http://www.osha.gov/pls/imis/sic_manual.display?id=216&tab=description
+86,Membership Organizations,http://www.osha.gov/pls/imis/sic_manual.display?id=72&tab=group
+861,Business Associations,
+8611,Business Associations,http://www.osha.gov/pls/imis/sic_manual.display?id=285&tab=description
+862,Professional Membership Organizations,
+8621,Professional Membership Organizations,http://www.osha.gov/pls/imis/sic_manual.display?id=217&tab=description
+863,Labor Unions And Similar Labor Organizations,
+8631,Labor Unions and Similar Labor Organizations,http://www.osha.gov/pls/imis/sic_manual.display?id=286&tab=description
+864,Civic, Social, And Fraternal Associations,
+8641,Civic, Social, and Fraternal Associations,http://www.osha.gov/pls/imis/sic_manual.display?id=287&tab=description
+865,Political Organizations,
+8651,Political Organizations,http://www.osha.gov/pls/imis/sic_manual.display?id=218&tab=description
+866,Religious Organizations,
+8661,Religious Organizations,http://www.osha.gov/pls/imis/sic_manual.display?id=219&tab=description
+869,Membership Organizations, Not Elsewhere,
+8699,Membership Organizations, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=288&tab=description
+87,Engineering, Accounting, Research, Management, And Related Services,http://www.osha.gov/pls/imis/sic_manual.display?id=73&tab=group
+871,Engineering, Architectural, And Surveying,
+8711,Engineering Services,http://www.osha.gov/pls/imis/sic_manual.display?id=220&tab=description
+8712,Architectural Services,http://www.osha.gov/pls/imis/sic_manual.display?id=221&tab=description
+8713,Surveying Services,http://www.osha.gov/pls/imis/sic_manual.display?id=222&tab=description
+872,Accounting, Auditing, And Bookkeeping Services,
+8721,Accounting, Auditing, and Bookkeeping Services,http://www.osha.gov/pls/imis/sic_manual.display?id=223&tab=description
+873,Research, Development, And Testing Services,
+8731,Commercial Physical and Biological Research,http://www.osha.gov/pls/imis/sic_manual.display?id=224&tab=description
+8732,Commercial Economic, Sociological, and Educational Research,http://www.osha.gov/pls/imis/sic_manual.display?id=225&tab=description
+8733,Noncommercial Research Organizations,http://www.osha.gov/pls/imis/sic_manual.display?id=226&tab=description
+8734,Testing Laboratories,http://www.osha.gov/pls/imis/sic_manual.display?id=227&tab=description
+874,Management And Public Relations Services,
+8741,Management Services,http://www.osha.gov/pls/imis/sic_manual.display?id=228&tab=description
+8742,Management Consulting Services,http://www.osha.gov/pls/imis/sic_manual.display?id=229&tab=description
+8743,Public Relations Services,http://www.osha.gov/pls/imis/sic_manual.display?id=230&tab=description
+8744,Facilities Support Management Services,http://www.osha.gov/pls/imis/sic_manual.display?id=231&tab=description
+8748,Business Consulting Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=232&tab=description
+88,Private Households,http://www.osha.gov/pls/imis/sic_manual.display?id=74&tab=group
+881,Private Households,
+8811,Private Households,http://www.osha.gov/pls/imis/sic_manual.display?id=233&tab=description
+89,Miscellaneous Services,http://www.osha.gov/pls/imis/sic_manual.display?id=83&tab=group
+899,Miscellaneous Services,
+8999,Services, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=1014&tab=description
+J,Public Administration,http://www.osha.gov/pls/imis/sic_manual.display?id=10&tab=division
+91,Executive, Legislative, And General Government, Except Finance,http://www.osha.gov/pls/imis/sic_manual.display?id=76&tab=group
+911,Executive Offices,
+9111,Executive Offices,http://www.osha.gov/pls/imis/sic_manual.display?id=289&tab=description
+912,Legislative Bodies,
+9121,Legislative Bodies,http://www.osha.gov/pls/imis/sic_manual.display?id=234&tab=description
+913,Executive And Legislative Offices Combined,
+9131,Executive and Legislative Offices Combined,http://www.osha.gov/pls/imis/sic_manual.display?id=235&tab=description
+919,General Government, Not Elsewhere Classified,
+9199,General Government, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=236&tab=description
+92,Justice, Public Order, And Safety,http://www.osha.gov/pls/imis/sic_manual.display?id=77&tab=group
+921,Courts,
+9211,Courts,http://www.osha.gov/pls/imis/sic_manual.display?id=237&tab=description
+922,Public Order And Safety,
+9221,Police Protection,http://www.osha.gov/pls/imis/sic_manual.display?id=290&tab=description
+9222,Legal Counsel and Prosecution,http://www.osha.gov/pls/imis/sic_manual.display?id=291&tab=description
+9223,Correctional Institutions,http://www.osha.gov/pls/imis/sic_manual.display?id=238&tab=description
+9224,Fire Protection,http://www.osha.gov/pls/imis/sic_manual.display?id=292&tab=description
+9229,Public Order and Safety, Not Elsewhere Classified,http://www.osha.gov/pls/imis/sic_manual.display?id=239&tab=description
+93,Public Finance, Taxation, And Monetary Policy,http://www.osha.gov/pls/imis/sic_manual.display?id=78&tab=group
+931,Public Finance, Taxation, And Monetary Policy,
+9311,Public Finance, Taxation, and Monetary Policy,http://www.osha.gov/pls/imis/sic_manual.display?id=293&tab=description
+94,Administration Of Human Resource Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=75&tab=group
+941,Administration Of Educational Programs,
+9411,Administration of Educational Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=240&tab=description
+943,Administration Of Public Health Programs,
+9431,Administration of Public Health Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=241&tab=description
+944,Administration Of Social, Human Resource And,
+9441,Administration of Social, Human Resource and Income Maintenance Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=294&tab=description
+945,Administration Of Veteran&#39;s Affairs, Except,
+9451,Administration of Veterans' Affairs, Except Health and Insurance,http://www.osha.gov/pls/imis/sic_manual.display?id=295&tab=description
+95,Administration Of Environmental Quality And Housing Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=79&tab=group
+951,Administration Of Environmental Quality,
+9511,Air and Water Resource and Solid Waste Management,http://www.osha.gov/pls/imis/sic_manual.display?id=242&tab=description
+9512,Land, Mineral, Wildlife, and Forest Conservation,http://www.osha.gov/pls/imis/sic_manual.display?id=306&tab=description
+953,Administration Of Housing And Urban,
+9531,Administration of Housing Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=307&tab=description
+9532,Administration of Urban Planning and Community and Rural Development,http://www.osha.gov/pls/imis/sic_manual.display?id=308&tab=description
+96,Administration Of Economic Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=80&tab=group
+961,Administration Of General Economic Programs,
+9611,Administration of General Economic Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=309&tab=description
+962,Regulation And Administration Of Transportation,
+9621,Regulation and Administration of Transportation Programs,http://www.osha.gov/pls/imis/sic_manual.display?id=340&tab=description
+963,Regulation And Administration Of,
+9631,Regulation and Administration of Communications, Electric, Gas, and Other Utilities,http://www.osha.gov/pls/imis/sic_manual.display?id=341&tab=description
+964,Regulation Of Agricultural Marketing And,
+9641,Regulation of Agricultural Marketing and Commodities,http://www.osha.gov/pls/imis/sic_manual.display?id=342&tab=description
+965,Regulation, Licensing, And Inspection Of,
+9651,Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors,http://www.osha.gov/pls/imis/sic_manual.display?id=343&tab=description
+966,Space Research And Technology,
+9661,Space and Research and Technology,http://www.osha.gov/pls/imis/sic_manual.display?id=344&tab=description
+97,National Security And International Affairs,http://www.osha.gov/pls/imis/sic_manual.display?id=81&tab=group
+971,National Security,
+9711,National Security,http://www.osha.gov/pls/imis/sic_manual.display?id=345&tab=description
+972,International Affairs,
+9721,International Affairs,http://www.osha.gov/pls/imis/sic_manual.display?id=346&tab=description
+99,Nonclassifiable Establishments,http://www.osha.gov/pls/imis/sic_manual.display?id=82&tab=group
+999,Nonclassifiable Establishments,
+9999,Nonclassifiable Establishments,http://www.osha.gov/pls/imis/sic_manual.display?id=999&tab=description
