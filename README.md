@@ -5,4 +5,4 @@ I could not find a decent list of Standard Industrial Classifications, in a form
 
 http://www.osha.gov/pls/imis/sic_manual.html
 
-The results are provided in csv and xls format.
+The results are provided in csv (tab delimited) and xls format.
